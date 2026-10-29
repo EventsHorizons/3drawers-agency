@@ -1,0 +1,140 @@
+{
+  "page": 1,
+  "results_per_page": 100,
+  "results_size": 1,
+  "total_results_size": 1,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "YMHidRMAACIAaYzG",
+      "uid": null,
+      "url": null,
+      "type": "homepage",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YMHidRMAACIAaYzG%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-23T14:19:23+0000",
+      "last_publication_date": "2026-07-06T12:05:29+0000",
+      "slugs": [
+        "homepage"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "title": [
+          {
+            "line_one": "We are a brand",
+            "line_two": "of collective",
+            "line_three": "creativity"
+          }
+        ],
+        "title_japanese": [
+          {
+            "line_one": "私たちは",
+            "line_two": "創造性を結集した",
+            "line_three": "ブランド"
+          }
+        ],
+        "gradient": "<monopo-gradient color1=\"#16254b\" color2=\"#23418a\" color3=\"#aadfd9\" color4=\"#e64f0f\" colorsize=\"0.75\" colorspacing=\"0.52\" colorrotation=\"-0.381592653589793\" colorspread=\"4.52\" coloroffset=\"-0.7741174697875977,-0.20644775390624992\" displacement=\"4.66\" seed=\"-0.06\" position=\"-0.2816110610961914,-0.43914794921875\" zoom=\"0.72\" spacing=\"4.27\"></monopo-gradient>",
+        "manifesto": [
+          {
+            "manifesto_title": [
+              {
+                "type": "heading5",
+                "text": "Based in London",
+                "spans": []
+              }
+            ],
+            "manifesto_text": "Born in Tokyo"
+          },
+          {
+            "manifesto_title": [
+              {
+                "type": "heading5",
+                "text": "Design-driven",
+                "spans": []
+              }
+            ],
+            "manifesto_text": "creative agency"
+          },
+          {
+            "manifesto_title": [
+              {
+                "type": "heading5",
+                "text": "Branding, digital",
+                "spans": []
+              }
+            ],
+            "manifesto_text": "and communications"
+          }
+        ],
+        "projects": [
+          {
+            "project": {
+              "id": "aLchxBAAACcA6Si3",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "onitsuka-tiger--finish-line-cafe--pop-up",
+              "first_publication_date": "2025-09-16T13:27:28+0000",
+              "last_publication_date": "2025-09-18T17:51:17+0000",
+              "uid": "onitsuka-tiger-finish-line-cafe",
+              "link_type": "Document",
+              "key": "4a16cdca-b509-474e-86e1-16e1327edb39",
+              "isBroken": false
+            }
+          },
+          {
+            "project": {
+              "id": "aNGUyhAAACAAysaM",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "nkora-coffee--brand-identity",
+              "first_publication_date": "2025-09-23T13:22:39+0000",
+              "last_publication_date": "2025-09-24T13:58:55+0000",
+              "uid": "nkora-coffee",
+              "link_type": "Document",
+              "key": "fecdcd31-d15e-4d9a-ab36-75a323644e36",
+              "isBroken": false
+            }
+          },
+          {
+            "project": {
+              "id": "akfwvREAACwA0x7E",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "barbour-x-wallace--gromit--christmas-activation",
+              "first_publication_date": "2026-07-06T11:03:15+0000",
+              "last_publication_date": "2026-07-06T18:04:35+0000",
+              "uid": "barbour-wallace-gromit-christmas",
+              "link_type": "Document",
+              "key": "3d0d4e05-8619-4e55-b36d-22eb270ce9a4",
+              "isBroken": false
+            }
+          },
+          {
+            "project": {
+              "id": "Zw7EIBEAACMAu8FJ",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "outfry--korean-fried-chicken-branding",
+              "first_publication_date": "2024-10-15T20:11:58+0000",
+              "last_publication_date": "2024-10-16T16:27:38+0000",
+              "uid": "outfry-korean-fried-chicken-branding",
+              "link_type": "Document",
+              "key": "532ab9bc-28e5-47d6-9efc-d66c9cd9e566",
+              "isBroken": false
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "version": "5621b3e",
+  "license": "All Rights Reserved"
+}

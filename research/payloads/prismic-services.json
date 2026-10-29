@@ -1,0 +1,1062 @@
+{
+  "page": 1,
+  "results_per_page": 100,
+  "results_size": 1,
+  "total_results_size": 1,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "YNs5WxAAACUAPE5X",
+      "uid": null,
+      "url": null,
+      "type": "services",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YNs5WxAAACUAPE5X%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-29T15:39:22+0000",
+      "last_publication_date": "2022-06-16T13:12:51+0000",
+      "slugs": [
+        "services"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "title": [
+          {
+            "line_one": [
+              {
+                "type": "heading1",
+                "text": "We build",
+                "spans": []
+              }
+            ],
+            "line_two": [
+              {
+                "type": "heading1",
+                "text": "expressive brands",
+                "spans": []
+              }
+            ]
+          }
+        ],
+        "baseline": "[ Across branding, communications and digital. ]",
+        "gradient": "<monopo-gradient color1=\"#f5e1a4\" color2=\"#ee7f27\" color3=\"#bc162a\" color4=\"#231a1c\" colorsize=\"0.58\" colorspacing=\"0.52\" colorrotation=\"-0.381592653589793\" colorspread=\"4.52\" coloroffset=\"-0.7741174697875977,-0.20644775390624992\" displacement=\"4.66\" seed=\"-0.06\" position=\"-0.2816110610961914,-0.43914794921875\" zoom=\"0.72\" spacing=\"4.27\"></monopo-gradient>",
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "We help brands be their most inspiring selves. Own their quirks - their edge - their culture. Help them be confidently attractive. At home, and abroad.",
+            "spans": []
+          }
+        ],
+        "link_label_works": "Discover all projects",
+        "service_one_title": [
+          {
+            "type": "heading2",
+            "text": "Branding",
+            "spans": []
+          }
+        ],
+        "service_one_list": [
+          {
+            "label": "Brand strategy"
+          },
+          {
+            "label": "Visual identity"
+          },
+          {
+            "label": "Copywriting"
+          },
+          {
+            "label": "Creative Direction"
+          }
+        ],
+        "service_two_title": [
+          {
+            "type": "heading2",
+            "text": "Communications",
+            "spans": []
+          }
+        ],
+        "service_two_list": [
+          {
+            "label": "Advertising"
+          },
+          {
+            "label": "Print"
+          },
+          {
+            "label": "Social media"
+          },
+          {
+            "label": "Photography & Film"
+          },
+          {
+            "label": "Art Direction"
+          },
+          {
+            "label": "Retail"
+          },
+          {
+            "label": "Assets production"
+          }
+        ],
+        "service_three_title": [
+          {
+            "type": "heading2",
+            "text": "Digital",
+            "spans": []
+          }
+        ],
+        "service_three_list": [
+          {
+            "label": "Web design"
+          },
+          {
+            "label": "Augmented reality"
+          },
+          {
+            "label": "Digital experiences"
+          },
+          {
+            "label": "Installations"
+          }
+        ],
+        "call_us_one_title": [
+          {
+            "type": "heading2",
+            "text": "you need a fresh\n→ perspective",
+            "spans": []
+          }
+        ],
+        "call_us_one_baseline": "[ Uniting different perspectives, in and around the agency. ]",
+        "call_us_one_text": [
+          {
+            "type": "paragraph",
+            "text": "Born in Tokyo, growing up online, we have worked for over a decade to grow a diverse community of talent that we love to work with. What it means for you is that by definition, we’ll bring a different perspective. A view from a different place, a different discipline, a different angle. A crucial ingredient, we feel, to develop creative work that feels truly fresh.",
+            "spans": []
+          }
+        ],
+        "link_label_team": "Meet the team",
+        "call_us_one_image": {
+          "dimensions": {
+            "width": 396,
+            "height": 646
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/d7ba59d2-a3e4-4b4d-b712-52fb0bf4c256_monopo_london_team_tp.jpeg?auto=compress,format&rect=0,0,792,1292&w=396&h=646",
+          "id": "YR-7_RAAACAATH63",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 792,
+              "height": 1292
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/d7ba59d2-a3e4-4b4d-b712-52fb0bf4c256_monopo_london_team_tp.jpeg?auto=compress,format&rect=0,0,792,1292&w=792&h=1292",
+            "id": "YR-7_RAAACAATH63",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 7
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/d7ba59d2-a3e4-4b4d-b712-52fb0bf4c256_monopo_london_team_tp.jpeg?auto=compress,format&rect=0,0,738,1292&w=4&h=7",
+            "id": "YR-7_RAAACAATH63",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.005417956656346749,
+              "background": "#fff"
+            }
+          }
+        },
+        "call_us_two_title": [
+          {
+            "type": "heading2",
+            "text": "YOU WANT TO CAPTURE\n→ THE IMAGINATION",
+            "spans": []
+          }
+        ],
+        "call_us_two_baseline": "[ WE ARE DESIGN - DRIVEN ]",
+        "call_us_two_text": [
+          {
+            "type": "paragraph",
+            "text": "We approach problems visually. In a scroll-through world, we aim for instant visceral impact. Our work is designed to speak to the imagination of global audiences.",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Design-driven work allows us to inject personality into every interaction. To bring character to an otherwise templated world. To challenge the codes of a category and establish the brand as a leader within it.",
+            "spans": []
+          }
+        ],
+        "call_us_two_quote": [
+          {
+            "type": "paragraph",
+            "text": "“We believe in visual ideas that travel globally and work instantly. monopo is able to boil down our innovation stories into striking visuals that resonate in any culture.”",
+            "spans": []
+          }
+        ],
+        "call_us_two_quote_author": [
+          {
+            "type": "paragraph",
+            "text": "Casey Yoneyama,\nbrand director at YONEX",
+            "spans": []
+          }
+        ],
+        "call_us_two_image": {
+          "dimensions": {
+            "width": 1480,
+            "height": 833
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/e762d6fd-435f-43de-b368-92dbba60e7b6_yonex.jpg?auto=compress,format&rect=0,0,2958,1665&w=1480&h=833",
+          "id": "YNs7ihAAACUAPFU_",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5003003003003003,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 2960,
+              "height": 1665
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/e762d6fd-435f-43de-b368-92dbba60e7b6_yonex.jpg?auto=compress,format&rect=0,0,2960,1665&w=2960&h=1665",
+            "id": "YNs7ihAAACUAPFU_",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 2
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/e762d6fd-435f-43de-b368-92dbba60e7b6_yonex.jpg?auto=compress,format&rect=0,0,2960,1480&w=4&h=2",
+            "id": "YNs7ihAAACUAPFU_",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0013513513513513514,
+              "background": "#fff"
+            }
+          }
+        },
+        "call_us_two_image_link": {
+          "id": "YPgMaBMAACAA67mj",
+          "type": "project",
+          "tags": [],
+          "lang": "en-gb",
+          "slug": "yonex-astrox-88-sd-launch-campaign",
+          "first_publication_date": "2021-07-21T12:04:28+0000",
+          "last_publication_date": "2021-09-19T20:34:24+0000",
+          "uid": "yonex-astrox-88sd-launch-campaign",
+          "link_type": "Document",
+          "key": "d56b5c98-cb79-4cd1-9a35-f7640f8ac64b",
+          "isBroken": false
+        },
+        "call_us_three_title": [
+          {
+            "type": "heading2",
+            "text": "You are looking for a partner rather than a supplier",
+            "spans": []
+          }
+        ],
+        "call_us_three_baseline": "[ WORKING COLLABORATIVELY towards a shared goal. ]",
+        "call_us_three_text": [
+          {
+            "type": "paragraph",
+            "text": "Working together means building a creative relationship that is collaborative rather than hostile. While we do a lot of making, we do even more listening. We don’t pretend to know everything about everything. So let’s work together, combine our strengths and welcome fresh perspectives.",
+            "spans": []
+          }
+        ],
+        "call_us_three_quote": [
+          {
+            "type": "paragraph",
+            "text": "“From the start, monopo has been a true partner to CAS. Happily sharing perspectives beyond the core of the project and helping us think more broadly about the brand.”",
+            "spans": []
+          }
+        ],
+        "call_us_three_quote_author": [
+          {
+            "type": "paragraph",
+            "text": "KRISTOPHER GASTERATOS\nCAS Founder & CD",
+            "spans": []
+          }
+        ],
+        "call_us_three_image": {
+          "dimensions": {
+            "width": 1480,
+            "height": 833
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/f8925eae-22c8-4389-90d3-2d17256290d8_CAS_services_tp.jpeg?auto=compress,format&rect=0,0,2960,1666&w=1480&h=833",
+          "id": "YUYjqREAACUABA-O",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 2960,
+              "height": 1666
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/f8925eae-22c8-4389-90d3-2d17256290d8_CAS_services_tp.jpeg?auto=compress,format&rect=0,0,2960,1666&w=2960&h=1666",
+            "id": "YUYjqREAACUABA-O",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 2
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/f8925eae-22c8-4389-90d3-2d17256290d8_CAS_services_tp.jpeg?auto=compress,format&rect=0,0,2960,1480&w=4&h=2",
+            "id": "YUYjqREAACUABA-O",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0013513513513513514,
+              "background": "#fff"
+            }
+          }
+        },
+        "clients_title": [
+          {
+            "type": "heading2",
+            "text": "Partnerships we value",
+            "spans": []
+          }
+        ],
+        "clients": [
+          {
+            "logo": {
+              "dimensions": {
+                "width": 148,
+                "height": 84
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/2e191ec4-a4ff-44e6-b00a-54aa24f273be_yonex_logo.png?auto=compress,format&rect=0,0,148,84&w=148&h=84",
+              "id": "YVSIixMAACIA_k5I",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 296,
+                  "height": 168
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/2e191ec4-a4ff-44e6-b00a-54aa24f273be_yonex_logo.png?auto=compress,format&rect=0,0,148,84&w=296&h=168",
+                "id": "YVSIixMAACIA_k5I",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 2,
+                  "background": "transparent"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 2
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/2e191ec4-a4ff-44e6-b00a-54aa24f273be_yonex_logo.png?auto=compress,format&rect=0,0,148,74&w=4&h=2",
+                "id": "YVSIixMAACIA_k5I",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.02702702702702703,
+                  "background": "transparent"
+                }
+              }
+            }
+          },
+          {
+            "logo": {
+              "dimensions": {
+                "width": 261,
+                "height": 84
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/414c1fcb-c8ad-41ff-96b1-4efd9a8034f3_musiversal+logo.png?auto=compress,format&rect=0,0,521,168&w=261&h=84",
+              "id": "YNs9iBAAACIAPF33",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 0.5009596928982726,
+                "background": "transparent"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 521,
+                  "height": 168
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/414c1fcb-c8ad-41ff-96b1-4efd9a8034f3_musiversal+logo.png?auto=compress,format&rect=0,0,521,168&w=521&h=168",
+                "id": "YNs9iBAAACIAPF33",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 1
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/414c1fcb-c8ad-41ff-96b1-4efd9a8034f3_musiversal+logo.png?auto=compress,format&rect=0,0,521,130&w=4&h=1",
+                "id": "YNs9iBAAACIAPF33",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.007677543186180422,
+                  "background": "transparent"
+                }
+              }
+            }
+          },
+          {
+            "logo": {
+              "dimensions": {
+                "width": 176,
+                "height": 84
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/b589dea9-c81c-4e1d-9130-6dee34169100_jfoodo_logo.png?auto=compress,format&rect=0,0,176,84&w=176&h=84",
+              "id": "YVSInRMAACAA_k6Z",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 352,
+                  "height": 168
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/b589dea9-c81c-4e1d-9130-6dee34169100_jfoodo_logo.png?auto=compress,format&rect=0,0,176,84&w=352&h=168",
+                "id": "YVSInRMAACAA_k6Z",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 2,
+                  "background": "transparent"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 2
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/b589dea9-c81c-4e1d-9130-6dee34169100_jfoodo_logo.png?auto=compress,format&rect=0,0,168,84&w=4&h=2",
+                "id": "YVSInRMAACAA_k6Z",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.023809523809523808,
+                  "background": "transparent"
+                }
+              }
+            }
+          },
+          {
+            "logo": {
+              "dimensions": {
+                "width": 167,
+                "height": 84
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/749aea05-ac43-4405-b3be-4deeb31a5d49_yamaha_logo.png?auto=compress,format&rect=0,0,167,84&w=167&h=84",
+              "id": "YVSIpRMAACIA_k7D",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 334,
+                  "height": 168
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/749aea05-ac43-4405-b3be-4deeb31a5d49_yamaha_logo.png?auto=compress,format&rect=0,0,167,84&w=334&h=168",
+                "id": "YVSIpRMAACIA_k7D",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 2,
+                  "background": "transparent"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 2
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/749aea05-ac43-4405-b3be-4deeb31a5d49_yamaha_logo.png?auto=compress,format&rect=0,0,167,84&w=4&h=2",
+                "id": "YVSIpRMAACIA_k7D",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.023952095808383235,
+                  "background": "transparent"
+                }
+              }
+            }
+          },
+          {
+            "logo": {
+              "dimensions": {
+                "width": 181,
+                "height": 84
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/29a7a0aa-9a53-498a-96b3-056f5f468f48_cas+logo.png?auto=compress,format&rect=0,0,362,168&w=181&h=84",
+              "id": "YNs9lBAAACIAPF4s",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 0.5,
+                "background": "transparent"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 362,
+                  "height": 168
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/29a7a0aa-9a53-498a-96b3-056f5f468f48_cas+logo.png?auto=compress,format&rect=0,0,362,168&w=362&h=168",
+                "id": "YNs9lBAAACIAPF4s",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 2
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/29a7a0aa-9a53-498a-96b3-056f5f468f48_cas+logo.png?auto=compress,format&rect=0,0,336,168&w=4&h=2",
+                "id": "YNs9lBAAACIAPF4s",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.011904761904761904,
+                  "background": "transparent"
+                }
+              }
+            }
+          },
+          {
+            "logo": {
+              "dimensions": {
+                "width": 240,
+                "height": 84
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/f827e28b-c699-40ef-8f44-e61784b6d903_canadagoose_logo.png?auto=compress,format&rect=0,0,479,168&w=240&h=84",
+              "id": "YOhajhMAACMAp3G8",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 0.5010438413361169,
+                "background": "transparent"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 479,
+                  "height": 168
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/f827e28b-c699-40ef-8f44-e61784b6d903_canadagoose_logo.png?auto=compress,format&rect=0,0,479,168&w=479&h=168",
+                "id": "YOhajhMAACMAp3G8",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 1
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/f827e28b-c699-40ef-8f44-e61784b6d903_canadagoose_logo.png?auto=compress,format&rect=0,0,479,120&w=4&h=1",
+                "id": "YOhajhMAACMAp3G8",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.008350730688935281,
+                  "background": "transparent"
+                }
+              }
+            }
+          },
+          {
+            "logo": {
+              "dimensions": {
+                "width": 197,
+                "height": 84
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/ddde0bc6-4b09-4dfa-966b-d4a3561b39cb_onefinestay_logo.png?auto=compress,format&rect=0,0,394,168&w=197&h=84",
+              "id": "YOhbxxMAACAAp3co",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 0.5,
+                "background": "transparent"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 394,
+                  "height": 168
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/ddde0bc6-4b09-4dfa-966b-d4a3561b39cb_onefinestay_logo.png?auto=compress,format&rect=0,0,394,168&w=394&h=168",
+                "id": "YOhbxxMAACAAp3co",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 2
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/ddde0bc6-4b09-4dfa-966b-d4a3561b39cb_onefinestay_logo.png?auto=compress,format&rect=0,0,336,168&w=4&h=2",
+                "id": "YOhbxxMAACAAp3co",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.011904761904761904,
+                  "background": "transparent"
+                }
+              }
+            }
+          },
+          {
+            "logo": {
+              "dimensions": {
+                "width": 137,
+                "height": 84
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/18dc3a24-e60b-478e-ac09-a85de4a5f976_third_logo.png?auto=compress,format&rect=0,0,274,168&w=137&h=84",
+              "id": "YUD2DhEAACQA7Tuq",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 0.5,
+                "background": "transparent"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 274,
+                  "height": 168
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/18dc3a24-e60b-478e-ac09-a85de4a5f976_third_logo.png?auto=compress,format&rect=0,0,274,168&w=274&h=168",
+                "id": "YUD2DhEAACQA7Tuq",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 2
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/18dc3a24-e60b-478e-ac09-a85de4a5f976_third_logo.png?auto=compress,format&rect=0,0,274,137&w=4&h=2",
+                "id": "YUD2DhEAACQA7Tuq",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.014598540145985401,
+                  "background": "transparent"
+                }
+              }
+            }
+          },
+          {
+            "logo": {
+              "dimensions": {
+                "width": 197,
+                "height": 84
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/02a340e8-dd55-4250-9425-b8dda7cfd7dc_apeiron_logo.png?auto=compress,format&rect=0,0,394,168&w=197&h=84",
+              "id": "YUD2FREAACMA7TvI",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 0.5,
+                "background": "transparent"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 394,
+                  "height": 168
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/02a340e8-dd55-4250-9425-b8dda7cfd7dc_apeiron_logo.png?auto=compress,format&rect=0,0,394,168&w=394&h=168",
+                "id": "YUD2FREAACMA7TvI",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 2
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/02a340e8-dd55-4250-9425-b8dda7cfd7dc_apeiron_logo.png?auto=compress,format&rect=0,0,336,168&w=4&h=2",
+                "id": "YUD2FREAACMA7TvI",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.011904761904761904,
+                  "background": "transparent"
+                }
+              }
+            }
+          }
+        ],
+        "awards_title": [
+          {
+            "type": "heading2",
+            "text": "Awards & recognition",
+            "spans": []
+          }
+        ],
+        "awards_baseline": "[   STORIES    THAT                      SPREAD  ]",
+        "awards": [
+          {
+            "date": "2022-03-14",
+            "type": "Design Week - Article",
+            "name": "Arcsaber 11 visual identity",
+            "link": {
+              "link_type": "Web",
+              "key": "7de06355-e71c-466b-a9b5-1373e3901acf",
+              "url": "https://www.designweek.co.uk/issues/14-20-march-2022/yonex/",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2022-03-07",
+            "type": "It's Nice That - Article",
+            "name": "Arcsaber 11 visual identity",
+            "link": {
+              "link_type": "Web",
+              "key": "b6e6c437-0549-4df8-972b-eda395e9320c",
+              "url": "https://www.itsnicethat.com/news/monopo-london-yonex-arcsaber-11-identity-graphic-design-070322",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2021-10-29",
+            "type": "Awwwards - Site of the Day",
+            "name": "monopo.london portfolio",
+            "link": {
+              "link_type": "Web",
+              "key": "890d1b18-8404-4726-ad16-5998ed7483a6",
+              "url": "https://www.awwwards.com/sites/monopo-london",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2021-09-30",
+            "type": "FWA - Site of the Day",
+            "name": "monopo.london portfolio",
+            "link": {
+              "link_type": "Web",
+              "key": "92c31fb8-85b6-4506-8f1f-a9ea32b014e9",
+              "url": "https://thefwa.com/cases/monopo-london",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2021-10-12",
+            "type": "CSS Design Awards - Site of the Day",
+            "name": "monopo.london portfolio",
+            "link": {
+              "link_type": "Web",
+              "key": "8d72447f-3b5b-45a3-bf65-0c8bf88fa65b",
+              "url": "https://www.cssdesignawards.com/sites/monopo-london/39854/",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2021-07-04",
+            "type": "Awwwards - Site of the Day",
+            "name": "Third by Kenjiro",
+            "link": {
+              "link_type": "Web",
+              "key": "74ad9c93-6d3e-4124-a528-d3b4836cf8ae",
+              "url": "https://www.awwwards.com/sites/third-by-kenjiro",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2021-07-01",
+            "type": "FWA - Site of the Day",
+            "name": "Third by Kenjiro",
+            "link": {
+              "link_type": "Web",
+              "key": "ee7c8c3f-3451-4b90-aca3-6491d46ea063",
+              "url": "https://thefwa.com/cases/third",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2021-04-08",
+            "type": "Awwwards - Honorable mention",
+            "name": "Smollan Space",
+            "link": {
+              "link_type": "Web",
+              "key": "ae0d486a-393a-42e8-895c-deae942b0732",
+              "url": "https://www.awwwards.com/sites/smollan-space",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2021-04-05",
+            "type": "Top interactive agencies",
+            "name": "Interview with Melanie hubert",
+            "link": {
+              "link_type": "Web",
+              "key": "72922292-3a7c-4f58-9d1a-5400c8a6131e",
+              "url": "https://www.topinteractiveagencies.com/digital/agency/founders-ceos/melanie-hubert-crozet-monopo-london-its-important-that-everybody-feels-creatively-fulfilled/",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2021-04-28",
+            "type": "Abduzeedo",
+            "name": "Super Dan Origin",
+            "link": {
+              "link_type": "Web",
+              "key": "eca23185-59dd-4aef-b49a-fc0991d3f80d",
+              "url": "https://abduzeedo.com/super-dan-origin-swipeable-graphic-novel-instagram-age",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2021-01-05",
+            "type": "Awwwards - Annual Awards 2020",
+            "name": "Agency of the year - nominee",
+            "link": {
+              "link_type": "Web",
+              "key": "20ac6a3d-017b-4451-9bc1-e43ab243e9e0",
+              "url": "https://www.awwwards.com/",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2021-08-20",
+            "type": "CSS Design Awards Annual 2020",
+            "name": "Designer of the Year - nominee",
+            "link": {
+              "link_type": "Web",
+              "key": "6e42a2d6-b184-493e-8b02-326fa6164548",
+              "url": "https://www.cssdesignawards.com/doty2020",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2020-12-15",
+            "type": "Communications Arts - Webpicks",
+            "name": "The Memories We Shared",
+            "link": {
+              "link_type": "Web",
+              "key": "f382cc96-f54d-481b-8bf1-b59d77dbf096",
+              "url": "https://www.commarts.com/webpicks/the-memories-we-shared",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2020-11-06",
+            "type": "Awwwards - Honorable mention",
+            "name": "The Memories We Shared",
+            "link": {
+              "link_type": "Web",
+              "key": "bd9fdd5a-c29f-44c3-9fda-5d298f3b2040",
+              "url": "https://www.awwwards.com/sites/the-memories-we-shared",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2020-04-15",
+            "type": "Commucations Arts - Webpicks",
+            "name": "The Legend's Vision of Badminton",
+            "link": {
+              "link_type": "Web",
+              "key": "58c64943-f7f5-4efa-aa57-c8933338c490",
+              "url": "https://www.commarts.com/webpicks/the-legends-vision-of-badminton",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2020-05-13",
+            "type": "CSS Design Awards - Site of the day",
+            "name": "The Legend's Vision",
+            "link": {
+              "link_type": "Web",
+              "key": "065b2ba6-4a3f-4aed-bf1e-a80b375f84cb",
+              "url": "https://www.cssdesignawards.com/sites/the-legends-vision/37099/",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2020-03-30",
+            "type": "Awwwards - Site of the Day",
+            "name": "Cellular Agriculture Society",
+            "link": {
+              "link_type": "Web",
+              "key": "de1f0048-08f8-4540-bcad-1f2843216d64",
+              "url": "https://www.awwwards.com/sites/cellular-agriculture-society",
+              "target": "_blank"
+            }
+          },
+          {
+            "date": "2020-04-03",
+            "type": "CSS Design Awards - Site of the Day",
+            "name": "Cellular Agriculture Society",
+            "link": {
+              "link_type": "Web",
+              "key": "f875c88f-b206-4431-a15e-6e49804c8d33",
+              "url": "https://www.cssdesignawards.com/sites/cellular-agriculture-society/36836/",
+              "target": "_blank"
+            }
+          }
+        ],
+        "contact_title": [
+          {
+            "type": "heading2",
+            "text": "Let’s work\n→ together",
+            "spans": []
+          }
+        ],
+        "contact_text": [
+          {
+            "type": "paragraph",
+            "text": "Feel free to reach out if you want to collaborate with us, or simply have a chat.",
+            "spans": []
+          }
+        ],
+        "contact_email": [
+          {
+            "link": {
+              "link_type": "Web",
+              "key": "42fb71fa-ed86-4094-b5d6-812b0b88160b",
+              "url": "mailto:contact@monopo.london",
+              "target": "_blank"
+            },
+            "label": "contact@monopo.london"
+          }
+        ],
+        "link_label_contact": "GO TO THE CONTACT PAGE",
+        "meta_title": "Services | monopo london | Branding, Digital design and Communications",
+        "meta_description": "monopo london is a tokyo-born design-driven creative agency working accross branding, digital design and advertising."
+      }
+    }
+  ],
+  "version": "5621b3e",
+  "license": "All Rights Reserved"
+}

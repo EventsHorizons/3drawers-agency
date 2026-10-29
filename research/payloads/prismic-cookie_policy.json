@@ -1,0 +1,190 @@
+{
+  "page": 1,
+  "results_per_page": 100,
+  "results_size": 1,
+  "total_results_size": 1,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "ZItGqxIAACIAT2Kr",
+      "uid": null,
+      "url": null,
+      "type": "cookie_policy",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZItGqxIAACIAT2Kr%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-06-15T17:14:09+0000",
+      "last_publication_date": "2023-06-15T17:14:09+0000",
+      "slugs": [
+        "cookie-policy"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "title": [
+          {
+            "type": "heading1",
+            "text": "COOKIE POLICY FOR MONOPO LONDON",
+            "spans": []
+          }
+        ],
+        "subtitle": [
+          {
+            "type": "heading2",
+            "text": "This is the Cookie Policy for monopo london, accessible from monopo.london",
+            "spans": []
+          }
+        ],
+        "gradient": "<monopo-gradient color1=\"#CF0F02\" color2=\"#FFBB4D\" color3=\"#65D7E1\" color4=\"#017FF7\" colorsize=\"0.75\" colorspacing=\"0.52\" colorrotation=\"-0.381592653589793\" colorspread=\"4.52\" coloroffset=\"-0.7741174697875977,-0.20644775390624992\" displacement=\"4.66\" seed=\"-0.06\" position=\"-0.2816110610961914,-0.43914794921875\" zoom=\"0.72\" spacing=\"4.27\"></monopo-gradient>",
+        "wysiwyg": [
+          {
+            "type": "heading4",
+            "text": "What Are Cookies",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or ‘break’ certain elements of the site's functionality.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "How We Use Cookies ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "We use cookies for a variety of reasons detailed below. Unfortunately in most cases there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Disabling Cookies ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "You can prevent the setting of cookies by adjusting the settings on your browser \n(see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of this site. Therefore it is recommended that you do not disable cookies.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Forms related cookies ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "When you submit data through a form such as those found on contact pages or comment forms cookies may be set to remember your user details for future correspondence.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "More Information ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren’t sure whether you need or not it’s usually safer to leave cookies enabled in case it does interact with one of the features you use on our site.\nHowever if you are still looking for more information then you can contact us through one of our preferred contact methods:",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Email: contact@monopo.london →",
+            "spans": [
+              {
+                "start": 7,
+                "end": 30,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "mailto:contact@monopo.london"
+                }
+              }
+            ]
+          },
+          {
+            "type": "heading3",
+            "text": "Privacy Policy for  MONOPO LONDON",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "At monopo london, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by monopo london and how we use it.\nIf you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.\nThis Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collected in monopo london. This policy is not applicable to any information collected offline or via channels other than this website.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Consent",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "By using our website, you hereby consent to our Privacy Policy and agree to its terms.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Cookies and Web Beacons",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Like any other website, monopo london uses ‘cookies’. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimise the users’ experience by customising our web page content based on visitors’ browser type and/or other information.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Advertising Partners Privacy Policies ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "You may consult this list to find the Privacy Policy for each of the advertising partners of monopo london.",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on monopo london, which is sent directly to users’ browsers. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalise the advertising content that you see on websites that you visit.",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Note that monopo london has no access to or control over these cookies that are used by third-party advertisers.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Advertising Partners Privacy Policies ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Monopo london ’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.\nYou can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites. \nCCPA Privacy Rights (Do Not Sell My Personal Information). Under the CCPA, among other rights, California consumers have the right to: Request that a business that collects a consumer’s personal data disclose the categories and specific pieces of personal data that a business has collected about consumers. Request that a business delete any personal data about the consumer that a business has collected. Request that a business that sells a consumer’s personal data, not sell the consumer’s personal data. If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "GDPR Data Protection Rights ",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "The right to access – You have the right to request copies of your personal data. \nWe may charge you a small fee for this service.\nThe right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.\nThe right to erasure – You have the right to request that we erase your personal data, under certain conditions.\nThe right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.\nThe right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.\nThe right to data portability – You have the right to request that we transfer the data that we have collected to another organisation, or directly to you, under certain conditions.\nIf you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.",
+            "spans": []
+          }
+        ],
+        "meta_title": null,
+        "meta_description": null
+      }
+    }
+  ],
+  "version": "5621b3e",
+  "license": "All Rights Reserved"
+}

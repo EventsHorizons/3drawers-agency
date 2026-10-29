@@ -1,0 +1,282 @@
+{
+  "page": 1,
+  "results_per_page": 100,
+  "results_size": 1,
+  "total_results_size": 1,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "YMImMhMAACEAarX8",
+      "uid": null,
+      "url": null,
+      "type": "works",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YMImMhMAACEAarX8%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-10T14:48:21+0000",
+      "last_publication_date": "2025-09-16T19:59:49+0000",
+      "slugs": [
+        "works"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "subtitle": [
+          {
+            "type": "heading2",
+            "text": "Our work",
+            "spans": []
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "We choose a different → starting point",
+            "spans": []
+          }
+        ],
+        "japanese_title": null,
+        "paragraph": [
+          {
+            "type": "paragraph",
+            "text": "Every project is a chance to try something new. Look at something with a fresh perspective. Do something for the first time.",
+            "spans": []
+          }
+        ],
+        "gradient": "<monopo-gradient color1=\"#CF0F02\" color2=\"#FFBB4D\" color3=\"#65D7E1\" color4=\"#017FF7\" colorsize=\"0.75\" colorspacing=\"0.52\" colorrotation=\"-0.381592653589793\" colorspread=\"4.52\" coloroffset=\"-0.7741174697875977,-0.20644775390624992\" displacement=\"4.66\" seed=\"-0.06\" position=\"-0.2816110610961914,-0.43914794921875\" zoom=\"0.72\" spacing=\"4.27\"></monopo-gradient>",
+        "collections": [
+          {
+            "collection_subtitle": [
+              {
+                "type": "heading3",
+                "text": "What we could do together",
+                "spans": []
+              }
+            ],
+            "collection_title": [
+              {
+                "type": "heading2",
+                "text": "Integrated Campaigns",
+                "spans": []
+              }
+            ],
+            "collection_project_one": {
+              "id": "ZsIf0BAAAH9v2lUJ",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "yonex-astrox-88-sd--launch-campaign",
+              "first_publication_date": "2024-08-18T17:31:44+0000",
+              "last_publication_date": "2024-08-20T19:21:12+0000",
+              "uid": "yonex-astrox-88-sd-launch-campaign",
+              "link_type": "Document",
+              "key": "5d1222da-4c37-4576-97e5-1f39db4b3719",
+              "isBroken": false
+            },
+            "collection_project_two": {
+              "id": "YiOxYxIAACwAqKhe",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "yonex-arcsaber-11--launch-campaign",
+              "first_publication_date": "2022-03-06T15:50:17+0000",
+              "last_publication_date": "2022-03-07T22:01:27+0000",
+              "uid": "yonex-arcsaber-11-launch-campaign",
+              "link_type": "Document",
+              "key": "4b6b1113-19fa-4607-9f91-ad28d8121f0a",
+              "isBroken": false
+            },
+            "collection_project_three": {
+              "id": "YRq4VBAAACEANtvz",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "canada-goose--the-art-of-film-ar-tour-berlin",
+              "first_publication_date": "2021-08-16T19:11:21+0000",
+              "last_publication_date": "2021-10-10T21:19:59+0000",
+              "uid": "canada-goose-the-art-of-film-berlin-2021",
+              "link_type": "Document",
+              "key": "7442886a-eafd-4968-88a7-7168d18fb2a4",
+              "isBroken": false
+            }
+          },
+          {
+            "collection_subtitle": [
+              {
+                "type": "heading3",
+                "text": "What we could do together",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "collection_title": [
+              {
+                "type": "heading2",
+                "text": "Creating immersive spaces",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "collection_project_one": {
+              "id": "aLchxBAAACcA6Si3",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "onitsuka-tiger--finish-line-cafe--pop-up",
+              "first_publication_date": "2025-09-16T13:27:28+0000",
+              "last_publication_date": "2025-09-18T17:51:17+0000",
+              "uid": "onitsuka-tiger-finish-line-cafe",
+              "link_type": "Document",
+              "key": "5dd4ff5c-d40a-40c5-b99b-6f2cc0aef498",
+              "isBroken": false
+            },
+            "collection_project_two": {
+              "id": "aDCbuxAAACgAvJP0",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "yonex-all-england--athlete-clubhouse",
+              "first_publication_date": "2025-05-30T09:35:54+0000",
+              "last_publication_date": "2025-09-18T17:55:19+0000",
+              "uid": "yonex-all-england-athlete-clubhouse",
+              "link_type": "Document",
+              "key": "539c0614-dc97-4599-b8ca-61f0ac92dffd",
+              "isBroken": false
+            },
+            "collection_project_three": {
+              "id": "ZtiLFBAAACYAXg8Q",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "hotel-onitsuka-tiger--brand-activation",
+              "first_publication_date": "2024-09-04T17:29:59+0000",
+              "last_publication_date": "2024-09-06T09:50:09+0000",
+              "uid": "hotel-onitsuka-tiger",
+              "link_type": "Document",
+              "key": "e4438347-9db9-4b81-9b09-e7f7ae204c32",
+              "isBroken": false
+            }
+          },
+          {
+            "collection_subtitle": [
+              {
+                "type": "heading3",
+                "text": "What we could do together",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "collection_title": [
+              {
+                "type": "heading2",
+                "text": "Building brand universes",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "collection_project_one": {
+              "id": "Zw7EIBEAACMAu8FJ",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "outfry--korean-fried-chicken-branding",
+              "first_publication_date": "2024-10-15T20:11:58+0000",
+              "last_publication_date": "2024-10-16T16:27:38+0000",
+              "uid": "outfry-korean-fried-chicken-branding",
+              "link_type": "Document",
+              "key": "7bf67f26-cd60-4813-b7bd-58b31c32aba2",
+              "isBroken": false
+            },
+            "collection_project_two": {
+              "id": "Z0tCqhUAAA6t2_3E",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "1337ai-universe--world-building",
+              "first_publication_date": "2024-11-30T17:50:51+0000",
+              "last_publication_date": "2024-12-03T21:41:20+0000",
+              "uid": "1337-world-building",
+              "link_type": "Document",
+              "key": "2d28638e-0607-4e88-b1b8-77bc0796c1c1",
+              "isBroken": false
+            },
+            "collection_project_three": {
+              "id": "ZD7QXBYAACsAYBFG",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "ghost-messaging--brand-universe",
+              "first_publication_date": "2023-04-21T07:48:56+0000",
+              "last_publication_date": "2023-06-12T14:33:31+0000",
+              "uid": "ghost-messaging-app-brand-identity",
+              "link_type": "Document",
+              "key": "a8bfe006-60d7-4738-9a60-e7d760ff8022",
+              "isBroken": false
+            }
+          },
+          {
+            "collection_subtitle": [
+              {
+                "type": "heading3",
+                "text": "What we could do together",
+                "spans": []
+              }
+            ],
+            "collection_title": [
+              {
+                "type": "heading2",
+                "text": "Bringing personality to digital",
+                "spans": []
+              }
+            ],
+            "collection_project_one": {
+              "id": "YQrA5hIAACkAGhaG",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "we-are-third--brand-identity-and-website",
+              "first_publication_date": "2021-08-04T16:32:01+0000",
+              "last_publication_date": "2022-07-01T16:57:33+0000",
+              "uid": "we-are-third-website",
+              "link_type": "Document",
+              "key": "e8c11cc1-d5e7-42ff-9eb2-47f691ec5111",
+              "isBroken": false
+            },
+            "collection_project_two": {
+              "id": "YMITzxMAACQAamSa",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "lin-dan-x-yonex--the-memories-we-shared-campaign",
+              "first_publication_date": "2021-06-10T14:15:06+0000",
+              "last_publication_date": "2021-10-10T21:23:38+0000",
+              "uid": "lin-dan-x-yonex-the-memories-we-shared",
+              "link_type": "Document",
+              "key": "2abaee4e-1024-4a8a-9427-b888d1d7fda6",
+              "isBroken": false
+            },
+            "collection_project_three": {
+              "id": "YMI1pBMAACQAavkf",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "jetro-japanese-green-tea--us-campaign-website",
+              "first_publication_date": "2021-06-10T15:54:52+0000",
+              "last_publication_date": "2021-10-10T21:28:11+0000",
+              "uid": "ocha-jetro-japanese-green-tea",
+              "link_type": "Document",
+              "key": "151d5c14-f504-47aa-ae14-8e16f0935e5e",
+              "isBroken": false
+            }
+          }
+        ],
+        "meta_title": null,
+        "meta_description": null
+      }
+    }
+  ],
+  "version": "5621b3e",
+  "license": "All Rights Reserved"
+}

@@ -1,0 +1,145 @@
+{
+  "page": 1,
+  "results_per_page": 100,
+  "results_size": 1,
+  "total_results_size": 1,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "ZIhsOBIAACUAQswS",
+      "uid": null,
+      "url": null,
+      "type": "press",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZIhsOBIAACUAQswS%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-06-13T13:17:16+0000",
+      "last_publication_date": "2025-10-27T18:56:46+0000",
+      "slugs": [
+        "press"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "title": [
+          {
+            "type": "heading1",
+            "text": "PRESS & NEWS",
+            "spans": []
+          }
+        ],
+        "categories": [
+          {
+            "category": {
+              "id": "ZIhylxIAACUAQuf1",
+              "type": "news_category",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "news",
+              "first_publication_date": "2023-06-13T13:43:58+0000",
+              "last_publication_date": "2023-06-13T13:43:58+0000",
+              "uid": "news",
+              "link_type": "Document",
+              "key": "045b5421-c8d7-4cad-b69c-cb1a32ab2df7",
+              "isBroken": false
+            }
+          },
+          {
+            "category": {
+              "id": "ZIhyuRIAACIAQugz",
+              "type": "news_category",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "events",
+              "first_publication_date": "2023-06-13T13:44:28+0000",
+              "last_publication_date": "2023-06-13T13:44:28+0000",
+              "uid": "events",
+              "link_type": "Document",
+              "key": "bcc774a7-d790-48ee-bc31-fe0e3c80761a",
+              "isBroken": false
+            }
+          },
+          {
+            "category": {
+              "id": "ZIhy0xIAACMAQuhm",
+              "type": "news_category",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "features",
+              "first_publication_date": "2023-06-13T13:44:54+0000",
+              "last_publication_date": "2023-06-13T13:44:54+0000",
+              "uid": "features",
+              "link_type": "Document",
+              "key": "c2b8a7ab-b4b4-4880-9534-a7b0a6c7b6f4",
+              "isBroken": false
+            }
+          },
+          {
+            "category": {
+              "id": "ZIhy7BIAACMAQuiS",
+              "type": "news_category",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "articles",
+              "first_publication_date": "2023-06-13T13:45:19+0000",
+              "last_publication_date": "2023-06-13T13:45:19+0000",
+              "uid": "articles",
+              "link_type": "Document",
+              "key": "f051d473-e277-4d97-87ad-5046a6cbf680",
+              "isBroken": false
+            }
+          }
+        ],
+        "featured_news_1": {
+          "id": "aP-k3hUAACIA-KiQ",
+          "type": "news",
+          "tags": [],
+          "lang": "en-gb",
+          "slug": "featured-on-the-brand-identity--nkora-coffee",
+          "first_publication_date": "2025-10-27T17:22:21+0000",
+          "last_publication_date": "2025-10-27T17:22:21+0000",
+          "link_type": "Document",
+          "key": "5c09ccdb-f4a4-4509-83f5-a5e425aefc2c",
+          "isBroken": false
+        },
+        "featured_news_2": {
+          "id": "aP--FBUAACQA-M0E",
+          "type": "news",
+          "tags": [],
+          "lang": "en-gb",
+          "slug": "monopo-night-vol.11--beach-please",
+          "first_publication_date": "2025-10-27T18:56:29+0000",
+          "last_publication_date": "2025-10-27T18:56:29+0000",
+          "link_type": "Document",
+          "key": "4fca6ae5-0326-49fd-b2cb-d4f62ef93904",
+          "isBroken": false
+        },
+        "contact_description": "[ If you're looking for a fresh perspective, don't hesitate to reach out ]",
+        "contact_link_label": "press@monopo.london",
+        "contact_link_url": {
+          "link_type": "Web",
+          "key": "4cfed651-735a-486d-a455-fa55daa6d4c8",
+          "url": "mailto:press@monopo.london"
+        },
+        "contact_press_kit_label": "DOWNLOAD OUR PRESS KIT",
+        "contact_press_kit": {
+          "link_type": "Media",
+          "key": "cad6ebd3-ea72-4ea2-81c1-615a5bb13e11",
+          "kind": "image",
+          "id": "ZZV-LBIAACYATC3T",
+          "url": "https://monopolondon.cdn.prismic.io/monopolondon/b2ce2428-0d9c-4b98-bbb8-78646420e418_monopolondon_pressmediapack_2024.zip?auto=compress,format",
+          "name": "monopolondon_pressmediapack_2024.zip",
+          "size": "20584685",
+          "width": "2000",
+          "height": "2000"
+        },
+        "meta_title": "Press & news",
+        "meta_description": null
+      }
+    }
+  ],
+  "version": "5621b3e",
+  "license": "All Rights Reserved"
+}

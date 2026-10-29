@@ -1,0 +1,190 @@
+{
+  "page": 1,
+  "results_per_page": 100,
+  "results_size": 7,
+  "total_results_size": 7,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "ZtiLKBAAACQAXhDZ",
+      "uid": "spatial",
+      "url": null,
+      "type": "category",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZtiLKBAAACQAXhDZ%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2024-09-04T17:30:12+0000",
+      "last_publication_date": "2024-09-04T17:30:12+0000",
+      "slugs": [
+        "spatial"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading1",
+            "text": "SPATIAL",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ]
+      }
+    },
+    {
+      "id": "YMISWBMAACEAamDk",
+      "uid": "campaigns",
+      "url": null,
+      "type": "category",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YMISWBMAACEAamDk%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-10T13:23:44+0000",
+      "last_publication_date": "2024-09-05T13:25:11+0000",
+      "slugs": [
+        "campaign"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading1",
+            "text": "Campaign",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ]
+      }
+    },
+    {
+      "id": "YMISgRMAACMAamE-",
+      "uid": "photography",
+      "url": null,
+      "type": "category",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YMISgRMAACMAamE-%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-10T13:24:20+0000",
+      "last_publication_date": "2021-06-10T13:24:20+0000",
+      "slugs": [
+        "photography"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading1",
+            "text": "Photography",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "YMISFhMAACEAal_B",
+      "uid": "brand-design",
+      "url": null,
+      "type": "category",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YMISFhMAACEAal_B%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-10T13:22:34+0000",
+      "last_publication_date": "2021-06-10T13:22:34+0000",
+      "slugs": [
+        "brand-design"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading1",
+            "text": "Brand design",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "YMISNRMAACQAamBB",
+      "uid": "video",
+      "url": null,
+      "type": "category",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YMISNRMAACQAamBB%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-10T13:23:05+0000",
+      "last_publication_date": "2021-06-10T13:23:05+0000",
+      "slugs": [
+        "video"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading1",
+            "text": "Video",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "YMISKBMAACIAamAA",
+      "uid": "digital",
+      "url": null,
+      "type": "category",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YMISKBMAACIAamAA%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-10T13:22:50+0000",
+      "last_publication_date": "2022-07-01T17:04:00+0000",
+      "slugs": [
+        "digital"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading1",
+            "text": "Digital",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "Yr8nPhEAACEA1cFp",
+      "uid": "illustration",
+      "url": null,
+      "type": "category",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Yr8nPhEAACEA1cFp%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2022-07-01T16:56:38+0000",
+      "last_publication_date": "2022-07-01T16:56:38+0000",
+      "slugs": [
+        "illustration"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading1",
+            "text": "Illustration",
+            "spans": []
+          }
+        ]
+      }
+    }
+  ],
+  "version": "5621b3e",
+  "license": "All Rights Reserved"
+}

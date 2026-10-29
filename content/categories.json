@@ -1,0 +1,37 @@
+[
+  {
+    "uid": "spatial",
+    "name": "SPATIAL",
+    "id": "ZtiLKBAAACQAXhDZ"
+  },
+  {
+    "uid": "campaigns",
+    "name": "Campaign",
+    "id": "YMISWBMAACEAamDk"
+  },
+  {
+    "uid": "photography",
+    "name": "Photography",
+    "id": "YMISgRMAACMAamE-"
+  },
+  {
+    "uid": "brand-design",
+    "name": "Brand design",
+    "id": "YMISFhMAACEAal_B"
+  },
+  {
+    "uid": "video",
+    "name": "Video",
+    "id": "YMISNRMAACQAamBB"
+  },
+  {
+    "uid": "digital",
+    "name": "Digital",
+    "id": "YMISKBMAACIAamAA"
+  },
+  {
+    "uid": "illustration",
+    "name": "Illustration",
+    "id": "Yr8nPhEAACEA1cFp"
+  }
+]

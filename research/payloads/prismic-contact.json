@@ -1,0 +1,127 @@
+{
+  "page": 1,
+  "results_per_page": 100,
+  "results_size": 1,
+  "total_results_size": 1,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "YNCxERMAACMAqcr0",
+      "uid": null,
+      "url": null,
+      "type": "contact",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YNCxERMAACMAqcr0%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-21T15:34:04+0000",
+      "last_publication_date": "2026-07-06T12:09:07+0000",
+      "slugs": [
+        "contact"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "contact": [
+          {
+            "type": "paragraph",
+            "text": "Feel free to reach out if you want to collaborate with us, or simply have a chat.",
+            "spans": []
+          }
+        ],
+        "contact_email": [
+          {
+            "label": "contact@monopo.london",
+            "link": {
+              "link_type": "Web",
+              "key": "428084d8-07d8-4245-8149-6bab33cf4fee",
+              "url": "mailto:contact@monopo.london",
+              "target": "_blank"
+            }
+          }
+        ],
+        "address": [
+          {
+            "type": "paragraph",
+            "text": "Unit 16C, Perseverance Works\n38 Kingsland Road\nE2 8DD, London\nUnited Kingdom",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "google_maps": [
+          {
+            "label": "view on google maps",
+            "link": {
+              "link_type": "Web",
+              "key": "1f3a0ab0-806f-4199-8143-3142129210d2",
+              "url": "https://maps.app.goo.gl/vsSyAh9DhDPe9X6c9",
+              "target": "_blank"
+            }
+          }
+        ],
+        "form_title": [
+          {
+            "type": "heading2",
+            "text": "Let’s make your project a reality",
+            "spans": []
+          }
+        ],
+        "form_paragraph": [
+          {
+            "type": "paragraph",
+            "text": "Feel free to reach out if you want to collaborate with us, or simply have a chat.",
+            "spans": []
+          }
+        ],
+        "careers_title": [
+          {
+            "type": "heading3",
+            "text": "Open applications",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "careers_paragraph": [
+          {
+            "type": "paragraph",
+            "text": "We don’t have open vacancies at the moment, but that can change quickly. If you are interested in submitting an open application, we very much look forward to receiving it. You can share your CV, portfolio and cover letter via jobs@monopo.london.",
+            "spans": [
+              {
+                "start": 227,
+                "end": 246,
+                "type": "strong"
+              }
+            ],
+            "direction": "ltr"
+          }
+        ],
+        "freelance_title": [
+          {
+            "type": "heading3",
+            "text": "Freelance collaborators",
+            "spans": []
+          }
+        ],
+        "freelance_paragraph": [
+          {
+            "type": "paragraph",
+            "text": "We are always looking for talented freelance collaborators. Please get in touch with us if you are a freelance designer, photographer, developer, director, copywriter, juggler, meme artist, or influencer. We want to hear about your skills and passions, no matter how niche they are. You can reach us via freelance@monopo.london.",
+            "spans": [
+              {
+                "start": 304,
+                "end": 328,
+                "type": "strong"
+              }
+            ],
+            "direction": "ltr"
+          }
+        ],
+        "meta_title": "monopo london | Contact us",
+        "meta_description": "monopo london Unit 16C, Perseverance Works, 38 Kingsland Road E2 8DD, London, United Kingdom"
+      }
+    }
+  ],
+  "version": "5621b3e",
+  "license": "All Rights Reserved"
+}

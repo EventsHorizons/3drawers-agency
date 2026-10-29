@@ -1,0 +1,679 @@
+{
+  "page": 1,
+  "results_per_page": 100,
+  "results_size": 1,
+  "total_results_size": 1,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "YNse8BAAACIAO9uz",
+      "uid": null,
+      "url": null,
+      "type": "team",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YNse8BAAACIAO9uz%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-29T13:24:42+0000",
+      "last_publication_date": "2026-03-16T17:11:07+0000",
+      "slugs": [
+        "team"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "title": [
+          {
+            "line_one": [
+              {
+                "type": "heading1",
+                "text": "We seek",
+                "spans": []
+              }
+            ],
+            "line_two": [
+              {
+                "type": "heading1",
+                "text": "unique",
+                "spans": []
+              }
+            ],
+            "line_three": [
+              {
+                "type": "heading1",
+                "text": "perspectives",
+                "spans": []
+              }
+            ]
+          }
+        ],
+        "baseline": "[ a city-based global network ]",
+        "gradient": "<monopo-gradient color1=\"#47AFFF\" color2=\"#5E68E8\" color3=\"#4D24AE\" color4=\"#3957C0\" colorsize=\"0.58\" colorspacing=\"0.52\" colorrotation=\"-0.381592653589793\" colorspread=\"4.52\" coloroffset=\"-0.7741174697875977,-0.20644775390624992\" displacement=\"4.66\" seed=\"-0.06\" position=\"-0.2816110610961914,-0.43914794921875\" zoom=\"0.72\" spacing=\"4.27\"></monopo-gradient>",
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "We collaborate as a collective of individuals bringing their whole self to a project and, together, create work that none of us would be able to do on our own.",
+            "spans": []
+          }
+        ],
+        "members_title": [
+          {
+            "type": "heading2",
+            "text": "Meet our london team",
+            "spans": []
+          }
+        ],
+        "we_are_title": [
+          {
+            "line_one": "We are a collective",
+            "line_two": "for global",
+            "line_three": "creative talent",
+            "line_four": "seeking safe harbour."
+          }
+        ],
+        "we_are_baseline": "[ A safe space for independent spirits. ]",
+        "we_are_text": [
+          {
+            "type": "paragraph",
+            "text": "Our structure empowers creative minds to bring their whole selves to projects. We work in a flat hierarchy that encourages people to deepen their expertise and widen their interests.",
+            "spans": []
+          }
+        ],
+        "we_are_image": {
+          "dimensions": {
+            "width": 420,
+            "height": 236
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/27538a20-c22f-4f48-9d3d-7cc1dbdb353a_monopo_london_team2_.jpeg?auto=compress,format&rect=0,0,840,472&w=420&h=236",
+          "id": "YOgtpBMAACEApq1Q",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 840,
+              "height": 472
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/27538a20-c22f-4f48-9d3d-7cc1dbdb353a_monopo_london_team2_.jpeg?auto=compress,format&rect=0,0,840,472&w=840&h=472",
+            "id": "YOgtpBMAACEApq1Q",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 2
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/27538a20-c22f-4f48-9d3d-7cc1dbdb353a_monopo_london_team2_.jpeg?auto=compress,format&rect=0,0,840,420&w=4&h=2",
+            "id": "YOgtpBMAACEApq1Q",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.004761904761904762,
+              "background": "#fff"
+            }
+          }
+        },
+        "tokyo_founders_date": "2011",
+        "tokyo_founders_title": [
+          {
+            "type": "heading2",
+            "text": "Founded in Tokyo by Yoshi & shun",
+            "spans": []
+          }
+        ],
+        "tokyo_founders": [
+          {
+            "name": "Yoshiyuki Sasaki"
+          },
+          {
+            "name": "Shun okada"
+          }
+        ],
+        "tokyo_founders_text": [
+          {
+            "type": "paragraph",
+            "text": "monopo was founded in Tokyo in 2011 as a digital design agency. Yoshi and Shun, both bass players, felt that the digital space was losing its groove. It was creating characterless brands. Anonymous businesses. A sea of sameness. Together with a collective of artists and engineers, they set up monopo to bring personality back to brands.",
+            "spans": []
+          }
+        ],
+        "tokyo_founders_image": {
+          "dimensions": {
+            "width": 730,
+            "height": 490
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/2c748be8-ad2c-4f02-b42d-63d2bcd93f90_02_Yoshi-Shun.jpg?auto=compress,format&rect=4,0,1450,973&w=730&h=490",
+          "id": "YNsb8xAAACUAO86c",
+          "edit": {
+            "x": -2,
+            "y": 0,
+            "zoom": 0.5035971223021583,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1460,
+              "height": 980
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/2c748be8-ad2c-4f02-b42d-63d2bcd93f90_02_Yoshi-Shun.jpg?auto=compress,format&rect=4,0,1450,973&w=1460&h=980",
+            "id": "YNsb8xAAACUAO86c",
+            "edit": {
+              "x": -4,
+              "y": 0,
+              "zoom": 1.0071942446043165,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 3
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/2c748be8-ad2c-4f02-b42d-63d2bcd93f90_02_Yoshi-Shun.jpg?auto=compress,format&rect=0,0,1297,973&w=4&h=3",
+            "id": "YNsb8xAAACUAO86c",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.003083247687564234,
+              "background": "#fff"
+            }
+          }
+        },
+        "london_founders_date": "2019",
+        "london_founders_title": [
+          {
+            "type": "heading2",
+            "text": "London office founded by Mélanie & Mattijs",
+            "spans": []
+          }
+        ],
+        "london_founders": [
+          {
+            "name": "Mélanie hubert-crozet"
+          },
+          {
+            "name": "Mattijs Devroedt"
+          }
+        ],
+        "london_founders_text": [
+          {
+            "type": "paragraph",
+            "text": "The London office was founded in 2019 by Mélanie and Mattijs. Their combined backgrounds in digital design and advertising strategy allowed monopo london to attract a diverse range of projects from the start. Both Mélanie and Mattijs have spent several years living and working in Tokyo as well as London and are always looking to create a bridge between the two cities.",
+            "spans": []
+          }
+        ],
+        "london_founders_image": {
+          "dimensions": {
+            "width": 516,
+            "height": 794
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/a227651f-d180-4147-9e6f-9eb2acc01e34_Mell%26Matt-photo.jpg?auto=compress,format&rect=0,0,1032,1588&w=516&h=794",
+          "id": "YNsdXBAAACMAO9TW",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1032,
+              "height": 1588
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/a227651f-d180-4147-9e6f-9eb2acc01e34_Mell%26Matt-photo.jpg?auto=compress,format&rect=0,0,1032,1588&w=1032&h=1588",
+            "id": "YNsdXBAAACMAO9TW",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 6
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/a227651f-d180-4147-9e6f-9eb2acc01e34_Mell%26Matt-photo.jpg?auto=compress,format&rect=0,0,1032,1548&w=4&h=6",
+            "id": "YNsdXBAAACMAO9TW",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.003875968992248062,
+              "background": "#fff"
+            }
+          }
+        },
+        "places": [
+          {
+            "number_of_members": [
+              {
+                "type": "paragraph",
+                "text": "13 members\nin London",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "link": {
+              "link_type": "Any"
+            },
+            "link_label": null
+          },
+          {
+            "number_of_members": [
+              {
+                "type": "paragraph",
+                "text": "40 members\nin Tokyo",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "link": {
+              "link_type": "Web",
+              "key": "376f7f6f-ddfa-421e-a14c-9a50126dcacc",
+              "url": "https://monopo.co.jp/",
+              "target": "_blank"
+            },
+            "link_label": "visit tokyo website"
+          },
+          {
+            "number_of_members": [
+              {
+                "type": "paragraph",
+                "text": "3 members\nin Paris",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "link": {
+              "link_type": "Web",
+              "key": "3e7fc14a-1caf-48d9-9f2c-ad22099d1a0c",
+              "url": "https://monopo.paris/",
+              "target": "_blank"
+            },
+            "link_label": "visit Paris website"
+          },
+          {
+            "number_of_members": [
+              {
+                "type": "paragraph",
+                "text": "2 members\nin New York",
+                "spans": []
+              }
+            ],
+            "link": {
+              "link_type": "Web",
+              "key": "79852942-b396-4ac6-9e28-6de09733c725",
+              "url": "https://monopo.nyc/",
+              "target": "_blank"
+            },
+            "link_label": "visit NYC website"
+          }
+        ],
+        "community_title": [
+          {
+            "type": "heading2",
+            "text": "A community of talented independent spirits",
+            "spans": []
+          }
+        ],
+        "community_text": [
+          {
+            "type": "paragraph",
+            "text": "The community is where we find the kind of diversity of expertise that can never be brought in house. We collaborate with specialists that bring unique perspectives and skills.",
+            "spans": []
+          }
+        ],
+        "community_list": [
+          {
+            "label": "Developers"
+          },
+          {
+            "label": "3D artists"
+          },
+          {
+            "label": "Illustrators"
+          },
+          {
+            "label": "Motion designers"
+          },
+          {
+            "label": "Photographers"
+          },
+          {
+            "label": "Film directors"
+          },
+          {
+            "label": "Copywriters"
+          },
+          {
+            "label": "Strategists"
+          },
+          {
+            "label": "Musicians"
+          },
+          {
+            "label": "Artists"
+          },
+          {
+            "label": "Models"
+          },
+          {
+            "label": "Influencers"
+          },
+          {
+            "label": "Event agencies"
+          },
+          {
+            "label": "Artists"
+          },
+          {
+            "label": "Event agencies"
+          },
+          {
+            "label": "PR agencies"
+          },
+          {
+            "label": "Research agencies"
+          },
+          {
+            "label": "Media agencies"
+          },
+          {
+            "label": "Architects"
+          },
+          {
+            "label": "You?"
+          }
+        ],
+        "community_image": {
+          "dimensions": {
+            "width": 730,
+            "height": 432
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/25707cc9-7b5d-4a85-8dd7-d137f5e35fa2_community.jpg?auto=compress,format&rect=0,0,1458,863&w=730&h=432",
+          "id": "YNseZBAAACQAO9kr",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5005793742757821,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1460,
+              "height": 864
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/25707cc9-7b5d-4a85-8dd7-d137f5e35fa2_community.jpg?auto=compress,format&rect=1,0,1458,863&w=1460&h=864",
+            "id": "YNseZBAAACQAO9kr",
+            "edit": {
+              "x": -1,
+              "y": 0,
+              "zoom": 1.0011587485515643,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 2
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/25707cc9-7b5d-4a85-8dd7-d137f5e35fa2_community.jpg?auto=compress,format&rect=0,0,1460,730&w=4&h=2",
+            "id": "YNseZBAAACQAO9kr",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0027397260273972603,
+              "background": "#fff"
+            }
+          }
+        },
+        "studio_title": [
+          {
+            "type": "heading2",
+            "text": "A peek inside our Spitalfields studio →",
+            "spans": []
+          }
+        ],
+        "studio_gallery": [
+          {
+            "image": {
+              "dimensions": {
+                "width": 1030,
+                "height": 579
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/c26b5d48-4e59-47af-83d2-271e09919ed7_monopo_london_office_01_t.jpeg?auto=compress,format&rect=0,0,2060,1158&w=1030&h=579",
+              "id": "YT-iOREAACMA54vz",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 0.5,
+                "background": "#fff"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 2060,
+                  "height": 1158
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/c26b5d48-4e59-47af-83d2-271e09919ed7_monopo_london_office_01_t.jpeg?auto=compress,format&rect=0,0,2060,1158&w=2060&h=1158",
+                "id": "YT-iOREAACMA54vz",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "#fff"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 2
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/c26b5d48-4e59-47af-83d2-271e09919ed7_monopo_london_office_01_t.jpeg?auto=compress,format&rect=0,0,2060,1030&w=4&h=2",
+                "id": "YT-iOREAACMA54vz",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.001941747572815534,
+                  "background": "#fff"
+                }
+              }
+            }
+          },
+          {
+            "image": {
+              "dimensions": {
+                "width": 1030,
+                "height": 579
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/99fbc00e-8812-4bbb-ae85-461dcdc3ad83_monopo_london_office_02_t.jpeg?auto=compress,format&rect=0,0,2060,1158&w=1030&h=579",
+              "id": "YT-iOhEAACUA54v5",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 0.5,
+                "background": "#fff"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 2060,
+                  "height": 1158
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/99fbc00e-8812-4bbb-ae85-461dcdc3ad83_monopo_london_office_02_t.jpeg?auto=compress,format&rect=0,0,2060,1158&w=2060&h=1158",
+                "id": "YT-iOhEAACUA54v5",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "#fff"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 2
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/99fbc00e-8812-4bbb-ae85-461dcdc3ad83_monopo_london_office_02_t.jpeg?auto=compress,format&rect=0,0,2060,1030&w=4&h=2",
+                "id": "YT-iOhEAACUA54v5",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.001941747572815534,
+                  "background": "#fff"
+                }
+              }
+            }
+          },
+          {
+            "image": {
+              "dimensions": {
+                "width": 1030,
+                "height": 579
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/60ebb3f4-9cc4-451d-90da-39c176a4e5b5_monopo_london_office_03_t.jpeg?auto=compress,format&rect=0,0,2060,1158&w=1030&h=579",
+              "id": "YT-iOREAACIA54v0",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 0.5,
+                "background": "#fff"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 2060,
+                  "height": 1158
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/60ebb3f4-9cc4-451d-90da-39c176a4e5b5_monopo_london_office_03_t.jpeg?auto=compress,format&rect=0,0,2060,1158&w=2060&h=1158",
+                "id": "YT-iOREAACIA54v0",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "#fff"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 2
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/60ebb3f4-9cc4-451d-90da-39c176a4e5b5_monopo_london_office_03_t.jpeg?auto=compress,format&rect=0,0,2060,1030&w=4&h=2",
+                "id": "YT-iOREAACIA54v0",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.001941747572815534,
+                  "background": "#fff"
+                }
+              }
+            }
+          }
+        ],
+        "jobs_title": [
+          {
+            "type": "heading2",
+            "text": "We would love to work with you.",
+            "spans": []
+          }
+        ],
+        "careers_title": [
+          {
+            "type": "heading3",
+            "text": "Open applications",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "careers_paragraph": [
+          {
+            "type": "paragraph",
+            "text": "We don’t have open vacancies at the moment, but that can change quickly. If you are interested in submitting an open application, we very much look forward to receiving it. You can share your CV, portfolio and cover letter via jobs@monopo.london.",
+            "spans": [
+              {
+                "start": 227,
+                "end": 246,
+                "type": "strong"
+              }
+            ],
+            "direction": "ltr"
+          }
+        ],
+        "freelance_title": [
+          {
+            "type": "heading3",
+            "text": "Freelance collaborators",
+            "spans": []
+          }
+        ],
+        "freelance_paragraph": [
+          {
+            "type": "paragraph",
+            "text": "We are always looking for talented freelance collaborators. Please get in touch with us if you are a freelance designer, photographer, developer, director, copywriter, juggler, meme artist, or influencer. We want to hear about your skills and passions, no matter how niche they are.\n\nYou can reach us via freelance@monopo.london",
+            "spans": [
+              {
+                "start": 305,
+                "end": 328,
+                "type": "strong"
+              }
+            ],
+            "direction": "ltr"
+          }
+        ],
+        "meta_title": "monopo london | Team",
+        "meta_description": "We collaborate as a collective of individuals bringing their whole self to a project and, together, create work that none of us would be able to do on our own."
+      }
+    }
+  ],
+  "version": "5621b3e",
+  "license": "All Rights Reserved"
+}

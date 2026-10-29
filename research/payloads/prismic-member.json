@@ -1,0 +1,3855 @@
+{
+  "page": 1,
+  "results_per_page": 100,
+  "results_size": 11,
+  "total_results_size": 11,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "aTsM0BAAACAACFlg",
+      "uid": "kai-sato-laughlin",
+      "url": null,
+      "type": "member",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22aTsM0BAAACAACFlg%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2025-12-11T18:44:20+0000",
+      "last_publication_date": "2025-12-12T12:23:32+0000",
+      "slugs": [
+        "kai-sato-laughlin"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading2",
+            "text": "Kai Sato Laughlin",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Kai's lens",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "date": "2025-08-07",
+        "roles": [
+          {
+            "label": "ACCOUNT MANAGER"
+          },
+          {
+            "label": "PRODUCER"
+          }
+        ],
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "Kai joined monopo london as Account Manager and Producer after relocating from Tokyo, bringing with him a fresh global perspective. Having grown up between Japan, Hong Kong and the US, Kai naturally bridges cultures. Kai studied Business and Design at Northeastern University, graduating in 2020, where he strengthened his approach to creativity and strategy.\n\nAt monopo, Kai leads client relationships and oversees project delivery, staying on top of communications with both our creative team and external partners. Outside of work, Kai is a lifelong athlete and sports fan, a passion that fuels his energy and collaborative spirit.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "links": [
+          {
+            "label": "Linkedin",
+            "link": {
+              "link_type": "Web",
+              "key": "833aaeac-bcf0-4d2e-ae52-c8843393bbff",
+              "url": "https://www.linkedin.com/in/kai-sato-laughlin-584985b5/"
+            }
+          },
+          {
+            "label": "Portfolio",
+            "link": {
+              "link_type": "Web",
+              "key": "7418e0eb-a1b2-469c-8350-ea95456db776",
+              "url": "https://www.kaisatolaughlin.com/"
+            }
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsNcnNYClf9oE_m_Kai_Sato_Laughlin_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=655&h=885",
+          "id": "aTsNcnNYClf9oE_m",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsNcnNYClf9oE_m_Kai_Sato_Laughlin_monopo_london_01.jpg?auto=format,compress&rect=0,66,1310,1638&w=4&h=5",
+            "id": "aTsNcnNYClf9oE_m",
+            "edit": {
+              "x": 0,
+              "y": 66,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsNcnNYClf9oE_m_Kai_Sato_Laughlin_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "aTsNcnNYClf9oE_m",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "image_reveal": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsNcnNYClf9oE_m_Kai_Sato_Laughlin_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=655&h=885",
+          "id": "aTsNcnNYClf9oE_m",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsNcnNYClf9oE_m_Kai_Sato_Laughlin_monopo_london_01.jpg?auto=format,compress&rect=0,66,1310,1638&w=4&h=5",
+            "id": "aTsNcnNYClf9oE_m",
+            "edit": {
+              "x": 0,
+              "y": 66,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsNcnNYClf9oE_m_Kai_Sato_Laughlin_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "aTsNcnNYClf9oE_m",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "name_japanese": "カイ",
+        "fun_facts": [
+          {
+            "fact": "Massive Liverpool Fan",
+            "emoji": "⚽️"
+          },
+          {
+            "fact": "Tattoos Lover",
+            "emoji": "☠️"
+          },
+          {
+            "fact": "Live Gigs and Music Fan",
+            "emoji": "🎸"
+          },
+          {
+            "fact": "Forever into playing and watching sport",
+            "emoji": "🤾‍♂️"
+          },
+          {
+            "fact": "Outdoors Enthusiast",
+            "emoji": "🏕️"
+          },
+          {
+            "fact": "Born in Bangkok, but grew up in HK/Tokyo",
+            "emoji": "🇹🇭"
+          },
+          {
+            "fact": "Former Division 1 R",
+            "emoji": "🏉"
+          },
+          {
+            "fact": "Have 3 brothers",
+            "emoji": "👦"
+          }
+        ],
+        "questions": [
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Who or what has been the biggest single influence on your way of thinking?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "The biggest single influence on my way of thinking has been my parents and growing up in Japan. They encouraged me to be open-minded and taught me strong morals, discipline, and an appreciation for creativity and attention to detail. Growing up in Japan also shaped the way I experience the world. The culture, the people, and the way I connect with others are all deeply influenced by my upbringing, and those experiences continue to guide how I approach life and work.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Which celebrity, at what age, would you love to have a long conversation with?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I’d love to have a long, present-day conversation with David Beckham. Just a straightforward, honest chat where I could tell him how much I respect his style, his tattoos, and the way he’s carried himself over the years. And even though I’m a Liverpool fan, I’d still admit he’s been a real influence on me, both in football and in how he’s built his life and career.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Describe your perfect holiday.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "My perfect holiday would be somewhere I’ve never been before, ideally a place where I can try new foods and really experience the local culture. I’d love to spend my days surrounded by nature, exploring forests, mountains, or any kind of beautiful landscape. As long as there’s good food, new experiences, and plenty of natural scenery, I’m happy.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Imagine you’re releasing a music album tomorrow. What genre is it and what’s the title?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "If I were releasing a music album tomorrow, it would probably be in the pop-punk/alternative genre. I’d call it Tokyo Chronicles, capturing raw and emotional tracks inspired by city life, late-night adventures, and personal stories.",
+                "spans": [
+                  {
+                    "start": 112,
+                    "end": 128,
+                    "type": "em"
+                  }
+                ],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "What do you want to see more or less of in the creative industry?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I’d like to see more brands focusing on real-life experiences, pop-ups, and events that genuinely bring people together. It’s exciting to see companies creating spaces where communities can connect, engage, and interact with ideas or products firsthand, rather than just online. At the same time, I’d like to see less content that feels overproduced or designed purely for algorithms rather than real human experiences.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "What is your favourite piece of monopo you have been involved?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "It’s hard to pick a favourite, but The Graphite Throttle shoot in Paris and Niigata Origins in Japan both stand out, not just for the work itself but because we got to travel and experience new places with the team. The projects were very different in style and approach, but what made them really fun was collaborating closely with my teammates while exploring incredible locations.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "What excites you creatively?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "What excites me creatively is working on projects that combine the outdoors, sport, and music. I enjoy capturing athletes or musicians in natural environments and telling stories that feel authentic and engaging. Collaborating with outdoor, sports, or music brands is inspiring because it challenges me to think about how movement, environment, and lifestyle come together visually. It’s rewarding to create work that feels true to both the people and the brand.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          }
+        ],
+        "works": [],
+        "meta_title": "monopo london | Team | Kai Sato Laughlin",
+        "meta_description": "Account manager & Producer at monopo.",
+        "share_image": {
+          "dimensions": {
+            "width": 1200,
+            "height": 630
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsPVXNYClf9oFAE_Team_page_OGP_Kai.jpg?auto=format,compress&rect=0,0,1200,630&w=1200&h=630",
+          "id": "aTsPVXNYClf9oFAE",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          }
+        }
+      }
+    },
+    {
+      "id": "aTseTBAAACAACHM4",
+      "uid": "josh-gan",
+      "url": null,
+      "type": "member",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22aTseTBAAACAACHM4%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2025-12-11T20:16:45+0000",
+      "last_publication_date": "2026-03-16T17:07:42+0000",
+      "slugs": [
+        "josh-gan"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading2",
+            "text": "Josh Gan",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Josh's lens",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "date": "2025-04-28",
+        "roles": [
+          {
+            "label": "CREATIVE PRODUCER"
+          }
+        ],
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "As a Singaporean-born, London-trained producer with experience in both agency, production companies and independent film, Josh notes that his proudest work has been collaborating with brands that bridge his Eastern heritage with Western audiences. \n\nAt monopo, Josh works closely with the creative team, clients and partners to transform ambitious ideas into reality. ",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "links": [
+          {
+            "label": "Portfolio",
+            "link": {
+              "link_type": "Web",
+              "key": "5cec7d86-13f5-4e25-93bc-7c5ec96ef872",
+              "url": "https://www.joshgan.com/"
+            }
+          },
+          {
+            "label": "Instagram",
+            "link": {
+              "link_type": "Web",
+              "key": "fa48fe9c-74e6-40d8-a7f3-0f2a2f8f8b76",
+              "url": "https://www.instagram.com/joshgan/"
+            }
+          },
+          {
+            "label": "Linkedin",
+            "link": {
+              "link_type": "Web",
+              "key": "07ac20e4-5cda-449d-a340-afcef725e027",
+              "url": "https://www.linkedin.com/in/joshua-gan-641880184/"
+            }
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTshznNYClf9oFGi_Josh_Gan_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=655&h=885",
+          "id": "aTshznNYClf9oFGi",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTshznNYClf9oFGi_Josh_Gan_monopo_london_01.jpg?auto=format,compress&rect=0,66,1310,1638&w=4&h=5",
+            "id": "aTshznNYClf9oFGi",
+            "edit": {
+              "x": 0,
+              "y": 66,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTshznNYClf9oFGi_Josh_Gan_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "aTshznNYClf9oFGi",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "image_reveal": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTshznNYClf9oFGi_Josh_Gan_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=655&h=885",
+          "id": "aTshznNYClf9oFGi",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTshznNYClf9oFGi_Josh_Gan_monopo_london_01.jpg?auto=format,compress&rect=0,66,1310,1638&w=4&h=5",
+            "id": "aTshznNYClf9oFGi",
+            "edit": {
+              "x": 0,
+              "y": 66,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTshznNYClf9oFGi_Josh_Gan_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "aTshznNYClf9oFGi",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "name_japanese": "ョッシュ",
+        "fun_facts": [
+          {
+            "fact": "Born in Singapore",
+            "emoji": "🇸🇬"
+          },
+          {
+            "fact": "Always on the phone",
+            "emoji": "🤙"
+          },
+          {
+            "fact": "Rise and Soulseek FC member",
+            "emoji": "⚽️"
+          },
+          {
+            "fact": "Clissold Park runner",
+            "emoji": "🏃‍♀️"
+          },
+          {
+            "fact": "Casual tennis & badminton player",
+            "emoji": "🎾"
+          },
+          {
+            "fact": "Part-time dog sitter",
+            "emoji": "🐶"
+          }
+        ],
+        "questions": [
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Describe your perfect holiday.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "My perfect holiday involves waking up early playing some tennis, coming back to a healthy full brunch with eggs and avocado. Having a lil mooch around and then a massage and a spa followed by a swim and a sauna. A nice dinner to end of the evening and in bed watching a movie. If we can fit a drive on some long country roads or a boat trip even better! I can't sit still so doing nothing is my absolute nightmare. ",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "What do you find most rewarding and most challenging about the work you do?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "The most rewarding part of my work is finding like-minded people I can genuinely connect with and create great work alongside.After spending several years in the industry and working around the world, I’ve realised how many people share the same passion and drive. It’s incredibly exciting to collaborate with people who have strong taste and a clear vision, and I love empowering them to do their best work. Whether it’s another producer, a director, or a designer, that creative connection feels universal and it goes beyond language, culture, and borders. The challenge for me is always balancing the creative with the resources given to me and it feels like a puzzle that you are constantly solving every day. You give and take and ultimately make the best informed decisions for the project which is the most fulfilling part about the work I do.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Who or what or where do you turn to for inspiration? Do you have any particular ‘creative heroes'?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I don't have a particular creative hero per se but I take a lot of inspiration from athletes and entrepreneurs. The intentional repetition and creative problem solving along with grit and wisdom is what I strongly believe in. I am always following new talent to see if something exciting catches my eye and always love reading biographies of successful people to see how I can emulate them. I love being curious and am always up to try something new, be it a sport, podcast, gallery or movie. I believe that creativity is not limited to a medium and can inspire each other. I am trying to “be bored” more which is something I'm really bad at but working on!",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          }
+        ],
+        "works": [
+          {
+            "works_subtitle": [
+              {
+                "type": "heading6",
+                "text": "DISCOVER",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "works_title": [
+              {
+                "type": "heading2",
+                "text": "Josh's recent work",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "work_one": {
+              "id": "aP-hTxUAACMA-KK2",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "yonex-astrox-99--launch-campaign",
+              "first_publication_date": "2025-10-31T19:13:33+0000",
+              "last_publication_date": "2025-11-03T20:01:03+0000",
+              "uid": "astrox-99-launch-campaign",
+              "link_type": "Document",
+              "key": "7ad27528-4c07-4df2-9778-c44cfea4551c",
+              "isBroken": false
+            },
+            "work_two": {
+              "id": "aMwFyRAAACAAwnUy",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "paris-world-championships--yonex-players-lounge",
+              "first_publication_date": "2025-09-18T16:27:35+0000",
+              "last_publication_date": "2025-09-19T16:22:39+0000",
+              "uid": "yonex-players-lounge-paris",
+              "link_type": "Document",
+              "key": "3d8d4e57-7c72-4a14-9264-1deaa462bb27",
+              "isBroken": false
+            },
+            "work_three": {
+              "id": "aLchxBAAACcA6Si3",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "onitsuka-tiger--finish-line-cafe--pop-up",
+              "first_publication_date": "2025-09-16T13:27:28+0000",
+              "last_publication_date": "2025-09-18T17:51:17+0000",
+              "uid": "onitsuka-tiger-finish-line-cafe",
+              "link_type": "Document",
+              "key": "bd71cc52-92fa-4d5e-ada2-279623d22149",
+              "isBroken": false
+            }
+          }
+        ],
+        "meta_title": "monopo london | Team | Josh Gan",
+        "meta_description": "Creative Producer at monopo london",
+        "share_image": {
+          "dimensions": {
+            "width": 1200,
+            "height": 630
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsiNnNYClf9oFGp_Team_page_OGP_Josh.jpg?auto=format,compress&rect=0,0,1200,630&w=1200&h=630",
+          "id": "aTsiNnNYClf9oFGp",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          }
+        }
+      }
+    },
+    {
+      "id": "ZGdlHREAACgA7R7p",
+      "uid": "luna-gooriah",
+      "url": null,
+      "type": "member",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZGdlHREAACgA7R7p%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-05-19T13:36:10+0000",
+      "last_publication_date": "2026-03-16T17:08:02+0000",
+      "slugs": [
+        "luna-gooriah"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading2",
+            "text": "Luna Gooriah",
+            "spans": []
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Luna's lens",
+            "spans": []
+          }
+        ],
+        "date": "2023-06-10",
+        "roles": [
+          {
+            "label": "Art Director"
+          },
+          {
+            "label": "Creative"
+          }
+        ],
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "Luna tells visual stories. From Japanese convenience stores to AI-driven near-human entities, Luna looks for the story lurking beneath the surface of any subject matter and finds visual ways of expressing it. Having studied Communications in Brussels, completed an Art Direction Masters degree at UAL in London and spent time in India, Sri Lanka and Tokyo, Luna infuses the stories of the world into her work.",
+            "spans": []
+          }
+        ],
+        "links": [
+          {
+            "label": "Instagram",
+            "link": {
+              "link_type": "Web",
+              "key": "124468cd-6742-4a8b-bce2-9ed0cd3c5e39",
+              "url": "https://www.instagram.com/lunagooriah/"
+            }
+          },
+          {
+            "label": "Linkedin",
+            "link": {
+              "link_type": "Web",
+              "key": "09e810f7-c96b-4b79-8a83-45d4aa57f2c8",
+              "url": "https://www.linkedin.com/in/lunagooriah/"
+            }
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/06b4cbaf-366f-4e39-b498-00cb497fe702_Luna_Gooriah_monopo_london_01.jpg?auto=compress,format&rect=0,0,1310,1770&w=655&h=885",
+          "id": "ZGdkNxEAACkA7R2Z",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/06b4cbaf-366f-4e39-b498-00cb497fe702_Luna_Gooriah_monopo_london_01.jpg?auto=compress,format&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "ZGdkNxEAACkA7R2Z",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/06b4cbaf-366f-4e39-b498-00cb497fe702_Luna_Gooriah_monopo_london_01.jpg?auto=compress,format&rect=0,0,1310,1638&w=4&h=5",
+            "id": "ZGdkNxEAACkA7R2Z",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0030534351145038168,
+              "background": "#fff"
+            }
+          }
+        },
+        "image_reveal": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/abd00520-8c33-4255-8197-9b5f2840ca27_Luna_Gooriah_monopo_london_02.jpg?auto=compress,format&rect=0,0,1310,1770&w=655&h=885",
+          "id": "ZGdkNxEAACoA7R2Y",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/abd00520-8c33-4255-8197-9b5f2840ca27_Luna_Gooriah_monopo_london_02.jpg?auto=compress,format&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "ZGdkNxEAACoA7R2Y",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/abd00520-8c33-4255-8197-9b5f2840ca27_Luna_Gooriah_monopo_london_02.jpg?auto=compress,format&rect=0,0,1310,1638&w=4&h=5",
+            "id": "ZGdkNxEAACoA7R2Y",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0030534351145038168,
+              "background": "#fff"
+            }
+          }
+        },
+        "name_japanese": "ルナ",
+        "fun_facts": [
+          {
+            "fact": "Love exploring and bridging cultures",
+            "emoji": "🌍"
+          },
+          {
+            "fact": "Stickers Collector",
+            "emoji": "🌸"
+          },
+          {
+            "fact": "(Belgian, always) chocolate aficionado",
+            "emoji": "🍫"
+          },
+          {
+            "fact": "Director of oat iced lattes",
+            "emoji": "🥛"
+          },
+          {
+            "fact": "London best food spots connoisseur",
+            "emoji": "🍝"
+          },
+          {
+            "fact": "Obsessed with trains",
+            "emoji": "🚂"
+          },
+          {
+            "fact": "Collector of curses in all possible languages",
+            "emoji": "🙊"
+          }
+        ],
+        "questions": [
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Tell us about your gap year in India – How did it shape who you are today?",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "It was my first time travelling alone, and at 18 going to India by yourself is definitely a big, big jump out of your comfort zone. Especially coming from the quiet suburbs of a European city. I remember crying on the plane from Belgium thinking ‘what am I doing?’. However, a few months later, I found myself crying on the plane back from India, not wanting to leave. This experience made me eager to expose myself to the unknown and find fulfilment in making an unfamiliar place feel like home. ",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "Oh and also, the food. Self explanatory.",
+                "spans": []
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Which subject can you talk about the longest? Go!",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "The art of curating a Spotify playlist. There’s something so fascinating about how people organise their music. Fight me but I think finding the best Spotify playlist title is an art form. (Although I have to admit, half of mine are still named after emojis, so I’m more on the appreciative side here.)",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "I love how every playlist corresponds to a certain mood, activity, memory… or sometimes even a certain person! The fact you can personalise the title, the playlist image, the songs order makes it so personal. Stalking someone’s Spotify is probably the most underrated way to get to know someone.",
+                "spans": []
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "What do you find most rewarding and most challenging about the work you do? ",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "The best thing is being able to watch a project bloom from the most random tangent during a brainstorm session to a polished delivery I would pin on my Pinterest board. The ability to go on wild tangents during monopo brainstorming sessions has been a significant plus because everyone seems to contribute to the out-of-the-box ideas instead of shooting them down.",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "On the other hand, a challenging aspect would be getting out of a creative slump. When you feel your creative brain is running on empty. Sometimes I feel guilty for not having ideas but I realise the need for me to step back and get a broader perspective. This might sound a bit cheesy but taking space and time to recharge my creative battery is often the best thing I can do. Exposing myself to something completely new and different often inspires me the most, even if that means falling down a rabbit hole somewhere on TikTok.",
+                "spans": []
+              }
+            ]
+          }
+        ],
+        "works": [
+          {
+            "works_subtitle": [
+              {
+                "type": "heading6",
+                "text": "Discover",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "works_title": [
+              {
+                "type": "heading2",
+                "text": "Luna's recent work",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "work_one": {
+              "id": "Z2B3TRIAAP9tVAxE",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "barbour--icons-in-quilting---digital-activation",
+              "first_publication_date": "2024-12-16T19:52:58+0000",
+              "last_publication_date": "2025-09-18T17:57:55+0000",
+              "uid": "barbour-icons-in-quilting",
+              "link_type": "Document",
+              "key": "05f35526-c8ce-4810-8765-d87fe9156b1b",
+              "isBroken": false
+            },
+            "work_two": {
+              "id": "Z0tCqhUAAA6t2_3E",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "1337ai-universe--world-building",
+              "first_publication_date": "2024-11-30T17:50:51+0000",
+              "last_publication_date": "2024-12-03T21:41:20+0000",
+              "uid": "1337-world-building",
+              "link_type": "Document",
+              "key": "7fd636bf-58fd-491f-9a8e-939b4b72b257",
+              "isBroken": false
+            },
+            "work_three": {
+              "id": "ZtiLFBAAACYAXg8Q",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "hotel-onitsuka-tiger--brand-activation",
+              "first_publication_date": "2024-09-04T17:29:59+0000",
+              "last_publication_date": "2024-09-06T09:50:09+0000",
+              "uid": "hotel-onitsuka-tiger",
+              "link_type": "Document",
+              "key": "5268fc1a-14a4-448c-87fd-f4a6749987ab",
+              "isBroken": false
+            }
+          }
+        ],
+        "meta_title": "monopo london | Team | Luna Gooriah",
+        "meta_description": "Creative at monopo london",
+        "share_image": {
+          "dimensions": {
+            "width": 1200,
+            "height": 630
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/19851214-020c-4544-94d0-20dad5ced9e1_Team_Luna_Gooriah_OGP.jpg?auto=compress,format&rect=0,0,1200,630&w=1200&h=630",
+          "id": "ZGdowhEAACgA7SS2",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+          }
+        }
+      }
+    },
+    {
+      "id": "aTsjfRAAACEACHrg",
+      "uid": "ibu-hyuga",
+      "url": null,
+      "type": "member",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22aTsjfRAAACEACHrg%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2025-12-11T20:14:34+0000",
+      "last_publication_date": "2025-12-18T18:07:50+0000",
+      "slugs": [
+        "ibu-hyuga"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading2",
+            "text": "Ibu Hyuga",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Ibu's lens",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "date": "2025-10-01",
+        "roles": [
+          {
+            "label": "ASSISTANT PRODUCER"
+          }
+        ],
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "Born in Tokyo, raised between Japan and New York and based in London since 2019 to study at the London College of Fashion, Ibu unites various perspectives. After graduating from UAL, Ibu spent time honing her production skills at a fashion communications production house before joining monopo london as Assistant Producer. \n\nAt monopo, Ibu assists the Account Management and Production teams throughout the project cycle to ensure a smooth and timely project delivery.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "links": [
+          {
+            "label": "Instagram",
+            "link": {
+              "link_type": "Web",
+              "key": "fa48fe9c-74e6-40d8-a7f3-0f2a2f8f8b76",
+              "url": "https://www.instagram.com/ibukihyuga/"
+            }
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsk-HNYClf9oFHW_Ibuki_Hyuga_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=655&h=885",
+          "id": "aTsk-HNYClf9oFHW",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsk-HNYClf9oFHW_Ibuki_Hyuga_monopo_london_01.jpg?auto=format,compress&rect=0,66,1310,1638&w=4&h=5",
+            "id": "aTsk-HNYClf9oFHW",
+            "edit": {
+              "x": 0,
+              "y": 66,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsk-HNYClf9oFHW_Ibuki_Hyuga_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "aTsk-HNYClf9oFHW",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "image_reveal": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsk-HNYClf9oFHW_Ibuki_Hyuga_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=655&h=885",
+          "id": "aTsk-HNYClf9oFHW",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsk-HNYClf9oFHW_Ibuki_Hyuga_monopo_london_01.jpg?auto=format,compress&rect=0,66,1310,1638&w=4&h=5",
+            "id": "aTsk-HNYClf9oFHW",
+            "edit": {
+              "x": 0,
+              "y": 66,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsk-HNYClf9oFHW_Ibuki_Hyuga_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "aTsk-HNYClf9oFHW",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "name_japanese": "イブ",
+        "fun_facts": [
+          {
+            "fact": "Tokyo born, Brooklyn raised",
+            "emoji": "🗽"
+          },
+          {
+            "fact": "Lifelong lasagna loyalty ",
+            "emoji": "💌"
+          },
+          {
+            "fact": "Flat white connoisseur",
+            "emoji": "☕️"
+          },
+          {
+            "fact": "Jewellery obsessed ",
+            "emoji": "💎"
+          },
+          {
+            "fact": "Sangria reviewer",
+            "emoji": "🍷"
+          }
+        ],
+        "questions": [
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Describe your perfect holiday.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "Somewhere in nature, up in the mountains, surrounded by animals. I imagine cooking for lots of people, everyone gathered together in the kitchen. I love the winter season, warm and cosy indoors, and then heading outside into the snow for long walks with my husky. My ideal holiday feels a bit like a Christmas dinner, full of close friends, good food, music, and festive outfits, where the more people there are, the better!",
+                "spans": [],
+                "direction": "ltr"
+              },
+              {
+                "type": "paragraph",
+                "text": "I know some people prefer a slower, more relaxing holiday, but I’m happiest when I can do a little bit of everything. Alongside long conversations and shared meals, I’d love to explore local galleries and markets, wander through a nearby town, meet new people, experience different cultures, and of course, always find time for a bit of holiday shopping.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Where do you turn to for inspiration?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I really enjoy looking through both old and new magazines, and editorial fashion photography will always be my favourite. \n\nWhat inspires me most, though, is work that feels personal. I love hearing about people’s experiences and seeing how they translate their lives into something visual. That’s why I’m drawn to meeting new people on set and through collaborations, and why I’ll always prefer meeting people in person, having long conversations and shared moments. I’m happiest when conversations happen naturally, and I’m definitely on the chatty side. I so often find inspiration in the most unexpected stories and random conversations. Surrounding myself with people who are passionate about what they do.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Could you tell us more about this birthday lasagna tradition, how and when it started? ",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "Honestly, I can’t remember exactly when it started. I was probably around five years old. My childhood best friend and I have birthdays close together, so we began this tradition together. I’ve carried it with me through the years in Brooklyn, Tokyo, and now as an adult in London. \n\nWhat began as a simple favourite food has become something deeply meaningful. Lasagna is filled with memories, and everyone who has ever shared that meal with me holds a special place in my heart.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          }
+        ],
+        "works": [],
+        "meta_title": "monopo london | Team | Ibu Hyuga",
+        "meta_description": "Assistant Producer at monopo london",
+        "share_image": {
+          "dimensions": {
+            "width": 1200,
+            "height": 630
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsl4nNYClf9oFHs_Team_page_OGP_Ibu.jpg?auto=format,compress&rect=0,0,1200,630&w=1200&h=630",
+          "id": "aTsl4nNYClf9oFHs",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          }
+        }
+      }
+    },
+    {
+      "id": "YNMloRMAACIAtJMb",
+      "uid": "maud-dedecker",
+      "url": null,
+      "type": "member",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YNMloRMAACIAtJMb%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-23T12:14:27+0000",
+      "last_publication_date": "2026-03-16T17:08:23+0000",
+      "slugs": [
+        "maud-dedecker"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading2",
+            "text": "Maud Dedecker",
+            "spans": []
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Maud's lens",
+            "spans": []
+          }
+        ],
+        "date": "2023-06-07",
+        "roles": [
+          {
+            "label": "Sr Creative Producer"
+          }
+        ],
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "Maud makes things happen. She is the production heart of monopo london, liaising with internal and external teams as well as clients to deliver ambitious projects effectively. Curious by nature, Maud very quickly built up broad-ranging experience as a creative producer, having led production on everything from a television series to a short film, integrated campaigns, digital content, a podcast and a COVID-proof summer of drive-in cinemas. Maud joined monopo in the second half of 2020 after moving to London from her native Antwerp.",
+            "spans": []
+          }
+        ],
+        "links": [
+          {
+            "label": "Instagram",
+            "link": {
+              "link_type": "Web",
+              "key": "d40ff57d-2fd2-4231-a17f-8652ed3f3045",
+              "url": "https://www.instagram.com/maud.dedecker/"
+            }
+          },
+          {
+            "label": "Linkedin",
+            "link": {
+              "link_type": "Web",
+              "key": "b33d8e0c-a589-42bf-9060-080bddb64f7f",
+              "url": "https://www.linkedin.com/in/maud-dedecker/"
+            }
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/915ef35c-1be1-41ca-ae4a-476e2e156a25_Maud_monopo_TeamPortrait_02.jpeg?auto=compress,format&rect=0,0,1310,1770&w=655&h=885",
+          "id": "YnlGwhEAAH7tIPOF",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/915ef35c-1be1-41ca-ae4a-476e2e156a25_Maud_monopo_TeamPortrait_02.jpeg?auto=compress,format&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "YnlGwhEAAH7tIPOF",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/915ef35c-1be1-41ca-ae4a-476e2e156a25_Maud_monopo_TeamPortrait_02.jpeg?auto=compress,format&rect=0,0,1310,1638&w=4&h=5",
+            "id": "YnlGwhEAAH7tIPOF",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0030534351145038168,
+              "background": "#fff"
+            }
+          }
+        },
+        "image_reveal": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/1385f201-674e-4ae6-8847-7bdaecce862c_Maud_monopo_TeamPortrait_01.jpg?auto=compress,format&rect=0,0,1310,1770&w=655&h=885",
+          "id": "YnfybhEAACQAGx4V",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/1385f201-674e-4ae6-8847-7bdaecce862c_Maud_monopo_TeamPortrait_01.jpg?auto=compress,format&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "YnfybhEAACQAGx4V",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/1385f201-674e-4ae6-8847-7bdaecce862c_Maud_monopo_TeamPortrait_01.jpg?auto=compress,format&rect=0,0,1310,1638&w=4&h=5",
+            "id": "YnfybhEAACQAGx4V",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0030534351145038168,
+              "background": "#fff"
+            }
+          }
+        },
+        "name_japanese": "マウド",
+        "fun_facts": [
+          {
+            "fact": "Director of dancefloors",
+            "emoji": "💃"
+          },
+          {
+            "fact": "Margarita master",
+            "emoji": "🍸"
+          },
+          {
+            "fact": "Born in Leuven",
+            "emoji": "🇧🇪"
+          },
+          {
+            "fact": "Sister of seven siblings",
+            "emoji": "👨‍👩‍👧‍👦"
+          },
+          {
+            "fact": "F1 fan",
+            "emoji": "🏎️"
+          },
+          {
+            "fact": "Always eating",
+            "emoji": "🍉"
+          }
+        ],
+        "questions": [
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "What motivates you the most in your job as a producer? ",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "Driven by my curiosity. Fuelled by my optimism. I’m always looking for the right way to tell the story. ",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "As a producer, you are often seen as one of the least creative people in a creative agency but this doesn’t have to be the truth. As a producer you are in control of the execution of the idea. I think we should see it as our playing field, where we explore ways of bringing the story to life in a unique way. ",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "I am most excited whenever I can work on a project that's unlike any project I’ve produced before. It allows me to learn new things and to bring a little bit more creativity to the role of a producer.",
+                "spans": []
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Which celebrity, at what age, would you love to have a long conversation with?",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I would love to have a conversation with Donald Glover about how he lives by his philosophy about the importance of endings.",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "Actor. Musician. Writer. Comedian. Producer. Donald Glover has the ability to do it all, but also to move on from things even at the height of their success, sometimes leading to people label him as crazy for doing so. He believes that 'endings are important to make progress.'",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "I’d like to live by it… even if I start small by exploring new interests, acquiring new skills, or taking on projects I have never done before. My hope is that one day, when I look at my life, it will be filled with projects.",
+                "spans": []
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Outside of monopo, you sometimes work in hospitality. What do you like about it? Do you bring any learning?",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I enjoy working in hospitality for many reasons ...",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "I like the change in energy during a shift. How it shifts from fun and relaxed to pure focus, and back. It’s all about teamwork and trust. You rely on each other. You help each other. To deliver an experience the customer enjoys.",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "Working together with people who are passionate about food is incredibly enriching. You get to learn more about different flavours, ingredients, and the culture of the food. And I love the free food of course.",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "I hadn't thought about the fact that managing the floor or working at the \"pass\" is in fact teaching me something as a producer. Both require you to keep an overview of all the moving parts. But that’s just the way my brain works. Whenever there is a lot of information, I see structure. This is very helpful when you are serving people or when you're producing a project. ",
+                "spans": []
+              }
+            ]
+          }
+        ],
+        "works": [
+          {
+            "works_subtitle": [
+              {
+                "type": "heading6",
+                "text": "Discover",
+                "spans": []
+              }
+            ],
+            "works_title": [
+              {
+                "type": "heading2",
+                "text": "Maud's recent work",
+                "spans": []
+              }
+            ],
+            "work_one": {
+              "id": "YiOxYxIAACwAqKhe",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "yonex-arcsaber-11--launch-campaign",
+              "first_publication_date": "2022-03-06T15:50:17+0000",
+              "last_publication_date": "2022-03-07T22:01:27+0000",
+              "uid": "yonex-arcsaber-11-launch-campaign",
+              "link_type": "Document",
+              "key": "abf8d4a3-a486-4926-b838-dc7f6babc9d6",
+              "isBroken": false
+            },
+            "work_two": {
+              "id": "YRq4VBAAACEANtvz",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "canada-goose--the-art-of-film-ar-tour-berlin",
+              "first_publication_date": "2021-08-16T19:11:21+0000",
+              "last_publication_date": "2021-10-10T21:19:59+0000",
+              "uid": "canada-goose-the-art-of-film-berlin-2021",
+              "link_type": "Document",
+              "key": "e8e46c33-85af-48a8-854b-97c994642d9a",
+              "isBroken": false
+            },
+            "work_three": {
+              "id": "YMI20BMAACQAav5l",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "super-dan-origin--digital-graphic-novel",
+              "first_publication_date": "2021-06-10T15:59:15+0000",
+              "last_publication_date": "2022-07-01T16:58:42+0000",
+              "uid": "super-dan-origin",
+              "link_type": "Document",
+              "key": "8ff68bfc-cdf2-4e9e-ab4d-d9385001a809",
+              "isBroken": false
+            }
+          }
+        ],
+        "meta_title": "monopo london | Team | Maud Dedecker",
+        "meta_description": "Creative producer at monopo london.",
+        "share_image": {
+          "dimensions": {
+            "width": 1200,
+            "height": 630
+          },
+          "alt": "Maud Dedecker - Creative producer at monopo london",
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/6205a215-32c4-49f6-a9e4-a4d013a2d966_Team_OGP_maud_02.jpg?auto=compress,format&rect=0,0,1200,630&w=1200&h=630",
+          "id": "YnlHQBEAACMAIPW6",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+          }
+        }
+      }
+    },
+    {
+      "id": "YNHrAhMAACIAry0j",
+      "uid": "stella-grotti",
+      "url": null,
+      "type": "member",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YNHrAhMAACIAry0j%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-22T13:52:10+0000",
+      "last_publication_date": "2025-04-25T10:58:26+0000",
+      "slugs": [
+        "stella-grotti"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading2",
+            "text": "Stella Grotti",
+            "spans": []
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Stella's lens",
+            "spans": []
+          }
+        ],
+        "date": "2023-06-06",
+        "roles": [
+          {
+            "label": "Art Director"
+          },
+          {
+            "label": "Designer"
+          }
+        ],
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "Stella is monopo london's interactive mind. Her expertise in interactive design is built on a constant desire to challenge where the line between graphic and digital design lies and instead provide a provocative digital experience with every creation.",
+            "spans": [
+              {
+                "start": 26,
+                "end": 44,
+                "type": "em"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Stella was drawn into design after completing a degree in philosophy, with the curiosity of exploring a new language. She started her career at Monogrid in Florence in 2016 while finishing her studies at the European Design Institute of Florence. After that, Stella gradually made her way North. By way of Paris, where she spent almost two years as Interactive designer at Octave Octave, Stella arrived in London in 2020 to join monopo. ",
+            "spans": [
+              {
+                "start": 108,
+                "end": 116,
+                "type": "em"
+              }
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Personal portfolio",
+            "link": {
+              "link_type": "Web",
+              "key": "f991a1ae-a937-44f6-aec7-87db80aa2491",
+              "url": "https://www.stellagrotti.com/"
+            }
+          },
+          {
+            "label": "Linkedin",
+            "link": {
+              "link_type": "Web",
+              "key": "16fad102-2bab-46d2-9ebb-e5701ad96311",
+              "url": "https://www.linkedin.com/in/stella-grotti-72401a137/"
+            }
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/1acbe149-2a46-4f3d-a316-5bd813c69b9d_Stella_monopo_TeamPortrait_01.jpg?auto=compress,format&rect=0,0,1310,1770&w=655&h=885",
+          "id": "YnfycBEAAH7tGx4k",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/1acbe149-2a46-4f3d-a316-5bd813c69b9d_Stella_monopo_TeamPortrait_01.jpg?auto=compress,format&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "YnfycBEAAH7tGx4k",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/1acbe149-2a46-4f3d-a316-5bd813c69b9d_Stella_monopo_TeamPortrait_01.jpg?auto=compress,format&rect=0,0,1310,1638&w=4&h=5",
+            "id": "YnfycBEAAH7tGx4k",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0030534351145038168,
+              "background": "#fff"
+            }
+          }
+        },
+        "image_reveal": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/971a3570-7de0-4b2e-8ea6-eaa5acddbea3_Stella_monopo_TeamPortrait_03.jpg?auto=compress,format&rect=0,0,1310,1770&w=655&h=885",
+          "id": "YnfybREAACMAGx4L",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/971a3570-7de0-4b2e-8ea6-eaa5acddbea3_Stella_monopo_TeamPortrait_03.jpg?auto=compress,format&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "YnfybREAACMAGx4L",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/971a3570-7de0-4b2e-8ea6-eaa5acddbea3_Stella_monopo_TeamPortrait_03.jpg?auto=compress,format&rect=0,0,1310,1638&w=4&h=5",
+            "id": "YnfybREAACMAGx4L",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0030534351145038168,
+              "background": "#fff"
+            }
+          }
+        },
+        "name_japanese": "ステラ グロチ",
+        "fun_facts": [
+          {
+            "fact": "Born in Arezzo",
+            "emoji": "🍼"
+          },
+          {
+            "fact": "Office director of plants",
+            "emoji": "🌱"
+          },
+          {
+            "fact": "Studied philosophy",
+            "emoji": "🧐"
+          },
+          {
+            "fact": "Avid reader",
+            "emoji": "📚"
+          },
+          {
+            "fact": "Firenze  →  Paris  →  London",
+            "emoji": "✈️"
+          },
+          {
+            "fact": "PIZZA & ApEroL spritz aficionado",
+            "emoji": "🍕"
+          },
+          {
+            "fact": "Director of shots",
+            "emoji": "🥃"
+          }
+        ],
+        "questions": [
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Which celebrity, at what age, would you love to have a long conversation with?",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I’d like to have a long conversation with Angela Davis, one of the most important women of 20th century feminism, who fought gender and racial discrimination with tenacity and determination. If today we are able to speak up to make our voices heard, it is also because of powerful women such as Angela Davis, who unfortunately are often forgotten and canceled from history. \n\nOn a slightly less serious note, another person I would like to meet (and possibly have a party with) is Ru Paul back in the 1980s - one of my favourite historical periods. ",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "You studied philosophy, how much does it influence your design/creative work?",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "Philosophy and design are more connected than what is generally assumed. I studied theoretical philosophy and I graduated with a thesis about the relationship between philosophy and neuroscience, a subject that has always intrigued me. The relation between subject and object studied by philosophy and cognitive sciences is also a fundamental aspect in design. As a matter of fact, we conceive and design each product (apps, websites, installations or even editorial products) keeping in mind what the subject/user thinks and feels. \n\nI think that philosophy shaped the way I approach design. For me, design is one of the possibilities to investigate the relation between subject and object even further and try to translate the abstract philosophical concepts that I’ve studied into a beautiful and stimulating language. ",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Has a book ever changed your life? Could you tell us about it?",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "It's really hard for me to rank or list books that I loved, I don’t have just one favourite book or a book that changed my life, I have many!\n\nIt all depends a lot on the period of your life that you’re going through while you read it. For me the most meaningful and inspiring books have always been books generally considered less important, narrating the stories of normal people or anti-heroes. \n\nI remember for example that in a time of great indecision after high school, when I didn’t know what to do and couldn’t find the courage to do what I’d liked, it was an Italian novel called “Pereira Maintains” which helped me make a decision and reach out to follow my passions. The novel isn’t a masterpiece or an amazingly inspiring story, it’s the narration of an ordinary man with a mediocre life with no ambitions, but thanks to a series of events, he becomes part of the revolutionary movement in his country.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          }
+        ],
+        "works": [
+          {
+            "works_subtitle": [
+              {
+                "type": "heading6",
+                "text": "Discover",
+                "spans": []
+              }
+            ],
+            "works_title": [
+              {
+                "type": "heading2",
+                "text": "STELLA’S RECENT WORK",
+                "spans": []
+              }
+            ],
+            "work_one": {
+              "id": "Z2B3TRIAAP9tVAxE",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "barbour--icons-in-quilting---digital-activation",
+              "first_publication_date": "2024-12-16T19:52:58+0000",
+              "last_publication_date": "2025-09-18T17:57:55+0000",
+              "uid": "barbour-icons-in-quilting",
+              "link_type": "Document",
+              "key": "18d6c178-537a-4e66-b69f-f98d986ce4c9",
+              "isBroken": false
+            },
+            "work_two": {
+              "id": "ZsIf0BAAAH9v2lUJ",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "yonex-astrox-88-sd--launch-campaign",
+              "first_publication_date": "2024-08-18T17:31:44+0000",
+              "last_publication_date": "2024-08-20T19:21:12+0000",
+              "uid": "yonex-astrox-88-sd-launch-campaign",
+              "link_type": "Document",
+              "key": "59c1264a-812a-49b7-b9a2-2131aa0ce869",
+              "isBroken": false
+            },
+            "work_three": {
+              "id": "YQrA5hIAACkAGhaG",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "we-are-third--brand-identity-and-website",
+              "first_publication_date": "2021-08-04T16:32:01+0000",
+              "last_publication_date": "2022-07-01T16:57:33+0000",
+              "uid": "we-are-third-website",
+              "link_type": "Document",
+              "key": "49d8d0fc-468d-4420-b4cb-0289d4f01fbb",
+              "isBroken": false
+            }
+          }
+        ],
+        "meta_title": "monopo london | Team | Stella Grotti",
+        "meta_description": "Interactive art director and designer at monopo london.",
+        "share_image": {
+          "dimensions": {
+            "width": 1200,
+            "height": 630
+          },
+          "alt": "Stella Grotti - Interactive art director and designer at monopo london.",
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/31270cc9-8468-4f5c-a456-31a2a45c0a5c_Team_OGP_stella_02.jpg?auto=compress,format&rect=0,0,1200,630&w=1200&h=630",
+          "id": "Ynf2FREAAH7tGy5B",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+          }
+        }
+      }
+    },
+    {
+      "id": "YNMlURMAACIAtJGr",
+      "uid": "melanie-hubert-crozet",
+      "url": null,
+      "type": "member",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YNMlURMAACIAtJGr%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-23T12:13:08+0000",
+      "last_publication_date": "2025-04-25T10:52:19+0000",
+      "slugs": [
+        "melanie-hubert-crozet"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading2",
+            "text": "Melanie Hubert-Crozet",
+            "spans": []
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Melanie's Lens",
+            "spans": []
+          }
+        ],
+        "date": "2019-06-03",
+        "roles": [
+          {
+            "label": "Creative director"
+          }
+        ],
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "Mélanie leads the creative vision of monopo london. Her desire to mix influences, styles and people sets the tone for the type of work monopo creates and the community monopo builds. She strives to create an environment that breeds unconventional creative approaches and fresh perspectives. Art director by trade, Mélanie looks to help brands own their quirks through expressive visuals and visceral communications. \n\nMélanie started her career as a digital designer, working on experimental campaign websites. A Gobelins graduate, Mélanie cut her teeth in France before moving to London where she worked at leading digital agencies Unit9 and Huge. In 2016, Mélanie joined monopo in Tokyo and became all-round art director. There she played a central role in the internationalization of the agency, resulting in a growth in global business and a string of awards. In 2019, she co-founded the London office together with Mattijs.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "links": [
+          {
+            "label": "Portfolio",
+            "link": {
+              "link_type": "Web",
+              "key": "b40a5a73-3469-41c0-82f8-6ec9486b6699",
+              "url": "http://melanie-hubertcrozet.fr/"
+            }
+          },
+          {
+            "label": "Instagram",
+            "link": {
+              "link_type": "Web",
+              "key": "e4c4b655-56fe-4938-aef1-32e748cb8169",
+              "url": "https://www.instagram.com/melanie_hc/"
+            }
+          },
+          {
+            "label": "Linkedin",
+            "link": {
+              "link_type": "Web",
+              "key": "fae83edd-cbad-45b6-a538-0c322a408a75",
+              "url": "https://www.linkedin.com/in/mhubertcrozet/"
+            }
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": "Melanie Hubert-Crozet",
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/b25311ca-aaf7-4045-9cf0-d7812b73bb4d_Melanie_monopo_TeamPortrait_01.jpg?auto=compress,format&rect=0,0,1310,1770&w=655&h=885",
+          "id": "YnfybhEAACQAGx4T",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/b25311ca-aaf7-4045-9cf0-d7812b73bb4d_Melanie_monopo_TeamPortrait_01.jpg?auto=compress,format&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "YnfybhEAACQAGx4T",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/b25311ca-aaf7-4045-9cf0-d7812b73bb4d_Melanie_monopo_TeamPortrait_01.jpg?auto=compress,format&rect=0,0,1310,1638&w=4&h=5",
+            "id": "YnfybhEAACQAGx4T",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0030534351145038168,
+              "background": "#fff"
+            }
+          }
+        },
+        "image_reveal": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/fe7cc3e2-b3bc-4b8a-a972-74c111294c87_Melanie_monopo_TeamPortrait_05.jpg?auto=compress,format&rect=0,0,1310,1770&w=655&h=885",
+          "id": "YnfybxEAACIAGx4c",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/fe7cc3e2-b3bc-4b8a-a972-74c111294c87_Melanie_monopo_TeamPortrait_05.jpg?auto=compress,format&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "YnfybxEAACIAGx4c",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/fe7cc3e2-b3bc-4b8a-a972-74c111294c87_Melanie_monopo_TeamPortrait_05.jpg?auto=compress,format&rect=0,0,1310,1638&w=4&h=5",
+            "id": "YnfybxEAACIAGx4c",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0030534351145038168,
+              "background": "#fff"
+            }
+          }
+        },
+        "name_japanese": "メラニー",
+        "fun_facts": [
+          {
+            "fact": "Director of Karaoke",
+            "emoji": "🎤"
+          },
+          {
+            "fact": "Born in St-Etienne",
+            "emoji": "🇫🇷"
+          },
+          {
+            "fact": "Anti-Coriander activist",
+            "emoji": "✊"
+          },
+          {
+            "fact": "Lemon Sour Aficionado",
+            "emoji": "🍋"
+          },
+          {
+            "fact": "Gobelins Alumni",
+            "emoji": "🎓"
+          },
+          {
+            "fact": "Young Lions Japan Gold",
+            "emoji": "🥇"
+          },
+          {
+            "fact": "Annecy → London → Tokyo → London",
+            "emoji": "✈️"
+          }
+        ],
+        "questions": [
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "What do you think is missing in digital design today?",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "When I chose to study digital design over print design, it was because for me the interactive and moving aspect was adding an extra layer to graphic design which I thought was making design even more rich and interesting. Being able to interact with a design is such a powerful thing!\n \nWhen I was a junior designer, we were making flash websites and everything was so graphic because there were no technical limits to the design. Over the years, digital design became UI design and product design - a lot of websites tend to look the same and it lost the connection with graphic design because it became a different discipline. We are focusing on crafting great experiences but we forget to inject visual personality and provoke emotions. What drives me the most is to bring graphic design and interactive design together. Creating websites with strong personalities and going back to the very reason I started to study design. ",
+                "spans": []
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "You are granted the power to create a mashup of your two favourite songs - which do you choose?",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "It would be Rock the Casbah by The Clash with Blinded Lights by The Weekend.\n \nBecause Rock the Casbah is the song I can listen to on repeat all day (the catchy rhythm of the song always cheers me up) and Blinded Lights is the song I can sing and dance to on repeat all night. ",
+                "spans": [
+                  {
+                    "start": 12,
+                    "end": 27,
+                    "type": "em"
+                  },
+                  {
+                    "start": 46,
+                    "end": 60,
+                    "type": "em"
+                  },
+                  {
+                    "start": 87,
+                    "end": 102,
+                    "type": "em"
+                  },
+                  {
+                    "start": 205,
+                    "end": 219,
+                    "type": "em"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "I’m not sure both will make a harmonious mashup though.",
+                "spans": []
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "dimensions": {
+                "width": 655,
+                "height": 440
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/21d26a91-7b28-4c99-8c58-3357cec2dfdb_melanie_lens_image_01.jpg?auto=compress,format&rect=0,0,1309,879&w=655&h=440",
+              "id": "YUUbGREAACUA_4MA",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 0.5005688282138794,
+                "background": "#fff"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 1310,
+                  "height": 879
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/21d26a91-7b28-4c99-8c58-3357cec2dfdb_melanie_lens_image_01.jpg?auto=compress,format&rect=0,0,1310,879&w=1310&h=879",
+                "id": "YUUbGREAACUA_4MA",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "#fff"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 3
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/21d26a91-7b28-4c99-8c58-3357cec2dfdb_melanie_lens_image_01.jpg?auto=compress,format&rect=0,0,1172,879&w=4&h=3",
+                "id": "YUUbGREAACUA_4MA",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.0034129692832764505,
+                  "background": "#fff"
+                }
+              }
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "What fascinates you about analog photography?",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "The idea that it is simply light, chemicals and a mechanical device that can reproduce a copy of the world's image, without any pixel involved, is really fascinating to me.\n \nBut what I’m really into is double exposure photography. In general, I’m quite fascinated by the idea of bringing randomness into the creative process. The idea of not controlling everything, creating accidents, letting life be creative. It’s like randomness is an artist with whom I can collaborate. I love to take a more experimental approach and use different mediums in uncommon ways. That's what's truly inspiring for me.\n \nIt's even more fun when you can do this with other people. Once, I did a film swap with another photographer. We used a roll of film each, taking photographs within our own cities (Tokyo and Barcelona). We then sent swapped those films via the post and double-exposed them by shooting a second layer over each other's films. I loved the outcome of that series. Another time, I gave a film to a friend in Tokyo thinking it was a new one. When she developed her pictures, they were full of sunflowers because I had already shot a first layer on a visit to a sunflower farm but totally forgot about it. That was such a beautiful little miracle!",
+                "spans": []
+              }
+            ]
+          }
+        ],
+        "works": [
+          {
+            "works_subtitle": [
+              {
+                "type": "heading6",
+                "text": "Discover",
+                "spans": []
+              }
+            ],
+            "works_title": [
+              {
+                "type": "heading2",
+                "text": "Mélanie's recent work",
+                "spans": []
+              }
+            ],
+            "work_one": {
+              "id": "Y7SvHBEAALekPEKg",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "babettesbrand-identity",
+              "first_publication_date": "2023-01-04T00:16:11+0000",
+              "last_publication_date": "2023-02-12T18:44:01+0000",
+              "uid": "babettesbranding",
+              "link_type": "Document",
+              "key": "3e77fd96-90eb-4477-b7d4-ca15f56afa28",
+              "isBroken": false
+            },
+            "work_two": {
+              "id": "YiOxYxIAACwAqKhe",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "yonex-arcsaber-11--launch-campaign",
+              "first_publication_date": "2022-03-06T15:50:17+0000",
+              "last_publication_date": "2022-03-07T22:01:27+0000",
+              "uid": "yonex-arcsaber-11-launch-campaign",
+              "link_type": "Document",
+              "key": "3338b7de-737c-4eaa-8381-df89d93b473b",
+              "isBroken": false
+            },
+            "work_three": {
+              "id": "YMI1pBMAACQAavkf",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "jetro-japanese-green-tea--us-campaign-website",
+              "first_publication_date": "2021-06-10T15:54:52+0000",
+              "last_publication_date": "2021-10-10T21:28:11+0000",
+              "uid": "ocha-jetro-japanese-green-tea",
+              "link_type": "Document",
+              "key": "4ecfd99a-43fb-4a96-ad3f-31804949db75",
+              "isBroken": false
+            }
+          }
+        ],
+        "meta_title": "monopo london | Team | Melanie Hubert-Crozet",
+        "meta_description": "Creative Director at monopo london.",
+        "share_image": {
+          "dimensions": {
+            "width": 1200,
+            "height": 630
+          },
+          "alt": "Melanie Hubert-Crozet - Creative Director at monopo london.",
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/dc06ee2f-1f3f-4aec-8930-3fd7186a81fb_Team_OGP_melanie_02.jpg?auto=compress,format&rect=0,0,1200,630&w=1200&h=630",
+          "id": "Ynf2FBEAACQAGy43",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+          }
+        }
+      }
+    },
+    {
+      "id": "aP-zmhUAACUA-L4W",
+      "uid": "keeo-lu",
+      "url": null,
+      "type": "member",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22aP-zmhUAACUA-L4W%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2025-12-11T18:14:10+0000",
+      "last_publication_date": "2025-12-11T18:14:18+0000",
+      "slugs": [
+        "keeo-lu"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading2",
+            "text": "Keeo Lu",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Keeo's lens",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "date": "2024-11-03",
+        "roles": [
+          {
+            "label": "GRAPHIC DESIGNER"
+          },
+          {
+            "label": "3D/MOTION DESIGNER"
+          }
+        ],
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "Keeo grew up in Guangzhou, China where she studied fashion design before moving to London in 2018. Having started in fashion and applied those skills to a wide range of creative challenges, Keeo injects 3D, motion and graphic design to build even richer brand universes together at monopo.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "links": [
+          {
+            "label": "Instagram",
+            "link": {
+              "link_type": "Web",
+              "key": "d84eca76-e36b-4eb8-97fe-8d486b39a257",
+              "url": "https://www.instagram.com/keeeoo/"
+            }
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsI43NYClf9oE9p_Keeo_Lu_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=655&h=885",
+          "id": "aTsI43NYClf9oE9p",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsI43NYClf9oE9p_Keeo_Lu_monopo_london_01.jpg?auto=format,compress&rect=0,66,1310,1638&w=4&h=5",
+            "id": "aTsI43NYClf9oE9p",
+            "edit": {
+              "x": 0,
+              "y": 66,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsI43NYClf9oE9p_Keeo_Lu_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "aTsI43NYClf9oE9p",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "image_reveal": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsI43NYClf9oE9p_Keeo_Lu_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=655&h=885",
+          "id": "aTsI43NYClf9oE9p",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsI43NYClf9oE9p_Keeo_Lu_monopo_london_01.jpg?auto=format,compress&rect=0,66,1310,1638&w=4&h=5",
+            "id": "aTsI43NYClf9oE9p",
+            "edit": {
+              "x": 0,
+              "y": 66,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsI43NYClf9oE9p_Keeo_Lu_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "aTsI43NYClf9oE9p",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "name_japanese": "キーオ",
+        "fun_facts": [
+          {
+            "fact": "Director of weird food",
+            "emoji": "🦐"
+          },
+          {
+            "fact": "Friend of fluffy little animals",
+            "emoji": "🐿️"
+          },
+          {
+            "fact": "Enemy of boredom",
+            "emoji": "🥱"
+          },
+          {
+            "fact": "Mild health zealot",
+            "emoji": "👩‍⚕️"
+          },
+          {
+            "fact": "Design Chameleon",
+            "emoji": "🦎"
+          },
+          {
+            "fact": "Timid Rebel at heart",
+            "emoji": "🫶"
+          },
+          {
+            "fact": "Avid explorer of Indie Music",
+            "emoji": "🎶"
+          },
+          {
+            "fact": "Plant Mum",
+            "emoji": "🪴"
+          }
+        ],
+        "questions": [
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Describe your perfect holiday",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I have two contrasting visions of a perfect holiday, each with its own appeal. One version is all about structure and self-improvement: early to bed, early to rise, healthy food, exercise, learning new things, and exploring exciting destinations. It’s about feeling productive and energized. The other version is the complete opposite: late night gaming, hanging out with friends, enjoying music gigs, and sometimes, simply doing absolutely nothing without any guilt. My past holidays have often been a mix of these two extremes and full of dissatisfaction. Perhaps my next holiday goal is to ‘find contentment in simply being’.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Is there anything you'd love to see change in the design world?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I have done some design work in China, so working at Monopo London already feels like a much better design world for me (I must ruthlessly critique the poor design environment in my home country in hopes of its improvement). I hope the atmosphere in the design world becomes more human-centered because that is what naturally fosters qualities like respect, freedom, diversity, and creativity. I hope the design world in the future will no longer force designers to waste time mimicking popular styles or trends but instead cherish and encourage every new possibility.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "How would you describe your design style?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "A friend once told me, \"Keeo, I think your work has a very strong personal style.\" I was quite surprised when I heard that because I’ve always felt that I navigate through different styles. At that moment, I quickly questioned myself—should I be bolder in trying out more styles? The reason I decided to study and step into the creative field was precisely because I’ve always been fascinated by various captivating styles, or rather, creativity itself. Styles are constantly evolving and being replaced, so I especially don’t want to be known for a particular strong style, as that would mean it could soon be outdated or already is. Therefore, my ideal response to this question is that my design doesn’t have a specific style. (—From my old stubborn fashion design inner self.)",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          }
+        ],
+        "works": [
+          {
+            "works_subtitle": [
+              {
+                "type": "heading6",
+                "text": "DISCOVER",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "works_title": [
+              {
+                "type": "heading2",
+                "text": "Keeo's recent work",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "work_one": {
+              "id": "aP-hTxUAACMA-KK2",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "yonex-astrox-99--launch-campaign",
+              "first_publication_date": "2025-10-31T19:13:33+0000",
+              "last_publication_date": "2025-11-03T20:01:03+0000",
+              "uid": "astrox-99-launch-campaign",
+              "link_type": "Document",
+              "key": "eb1e6fac-dfb0-45ac-9c3a-510081b2f810",
+              "isBroken": false
+            },
+            "work_two": {
+              "id": "aMwFyRAAACAAwnUy",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "paris-world-championships--yonex-players-lounge",
+              "first_publication_date": "2025-09-18T16:27:35+0000",
+              "last_publication_date": "2025-09-19T16:22:39+0000",
+              "uid": "yonex-players-lounge-paris",
+              "link_type": "Document",
+              "key": "906cc01c-3f26-4495-aaca-d5646428e6fa",
+              "isBroken": false
+            },
+            "work_three": {
+              "id": "aLchxBAAACcA6Si3",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "onitsuka-tiger--finish-line-cafe--pop-up",
+              "first_publication_date": "2025-09-16T13:27:28+0000",
+              "last_publication_date": "2025-09-18T17:51:17+0000",
+              "uid": "onitsuka-tiger-finish-line-cafe",
+              "link_type": "Document",
+              "key": "d581f379-3ac4-4036-86bb-d50331a00b00",
+              "isBroken": false
+            }
+          }
+        ],
+        "meta_title": "monopo london | Team | Keeo Lu",
+        "meta_description": "Graphic and 3D/motion designer at monopo.",
+        "share_image": {
+          "dimensions": {
+            "width": 1200,
+            "height": 630
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsJ3nNYClf9oE-i_Team_page_OGP_Keeo.jpg?auto=format,compress&rect=0,0,1200,630&w=1200&h=630",
+          "id": "aTsJ3nNYClf9oE-i",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          }
+        }
+      }
+    },
+    {
+      "id": "YNMlehMAACEAtJJm",
+      "uid": "mattijs-devroedt",
+      "url": null,
+      "type": "member",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YNMlehMAACEAtJJm%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-23T12:13:50+0000",
+      "last_publication_date": "2025-11-03T19:12:24+0000",
+      "slugs": [
+        "mattijs-devroedt"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading2",
+            "text": "Mattijs Devroedt",
+            "spans": []
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Mattijs's Lens",
+            "spans": []
+          }
+        ],
+        "date": "2019-09-03",
+        "roles": [
+          {
+            "label": "Managing director"
+          },
+          {
+            "label": "Strategic planning director"
+          }
+        ],
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "Mattijs helps direct monopo’s creative power in the direction that will make the biggest impact on a brand’s business. A strategist by trade, Mattijs has worked with brands across the world to help them be themselves in markets that are often not their own. Having started his career as an advertising strategist in Belgium, Mattijs moved to London in 2012 to join Ogilvy and later adam&eveDDB. In 2016, Mattijs joined Wieden+Kennedy in Tokyo where he has helped brands like Nike, IKEA, Audi and Airbnb find their feet in the Japanese and Korean markets as Strategic Planning Director. In 2019, Mattijs joined monopo to set up the London branch together with Mélanie.",
+            "spans": []
+          }
+        ],
+        "links": [
+          {
+            "label": "Portfolio",
+            "link": {
+              "link_type": "Web",
+              "key": "6df85a8f-96ea-4221-ba0e-d400dd6a85d6",
+              "url": "https://www.mattijsdevroedt.be/"
+            }
+          },
+          {
+            "label": "Linkedin",
+            "link": {
+              "link_type": "Web",
+              "key": "289fd992-70b3-4fb8-be03-1cd1681b65aa",
+              "url": "https://www.linkedin.com/in/mattijsdevroedt/"
+            }
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": "Mattijs Devroedt",
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/64d87980-d154-418e-bd43-694e86ea962e_Mattijs_monopo_TeamPortrait_01.jpg?auto=compress,format&rect=0,0,1310,1770&w=655&h=885",
+          "id": "YnfybxEAACIAGx4a",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/64d87980-d154-418e-bd43-694e86ea962e_Mattijs_monopo_TeamPortrait_01.jpg?auto=compress,format&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "YnfybxEAACIAGx4a",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/64d87980-d154-418e-bd43-694e86ea962e_Mattijs_monopo_TeamPortrait_01.jpg?auto=compress,format&rect=0,0,1310,1638&w=4&h=5",
+            "id": "YnfybxEAACIAGx4a",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0030534351145038168,
+              "background": "#fff"
+            }
+          }
+        },
+        "image_reveal": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": "Mattijs Devroedt",
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/9129ce63-a880-4f87-a229-32ac151393e6_Mattijs_monopo_TeamPortrait_02.jpg?auto=compress,format&rect=0,0,1310,1770&w=655&h=885",
+          "id": "YnfybhEAACMAGx4S",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 0.5,
+            "background": "#fff"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/9129ce63-a880-4f87-a229-32ac151393e6_Mattijs_monopo_TeamPortrait_02.jpg?auto=compress,format&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "YnfybhEAACMAGx4S",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "#fff"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/9129ce63-a880-4f87-a229-32ac151393e6_Mattijs_monopo_TeamPortrait_02.jpg?auto=compress,format&rect=0,0,1310,1638&w=4&h=5",
+            "id": "YnfybhEAACMAGx4S",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 0.0030534351145038168,
+              "background": "#fff"
+            }
+          }
+        },
+        "name_japanese": null,
+        "fun_facts": [
+          {
+            "fact": "Duke of fries",
+            "emoji": "🍟"
+          },
+          {
+            "fact": "Christmas baby",
+            "emoji": "🎅"
+          },
+          {
+            "fact": "Belgium → UK → Japan → UK",
+            "emoji": "✈️"
+          },
+          {
+            "fact": "Japanese vintage pencil collector",
+            "emoji": "✏️"
+          },
+          {
+            "fact": "Andrew Garfield lookalike",
+            "emoji": "🦸‍♂️"
+          }
+        ],
+        "questions": [
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "What do you want to see more or less of in the creative industry?",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "Less hostility towards clients and more collaboration instead. It has always felt strange to me how agencies tend to create a divide between themselves and the client. A sort of arrogance around being the owner of the ultimate truth. I’ve always loved the true and honest conversations you can have with a client and (contrary to common agency beliefs) it has never hurt creative work. Closer collaboration always leads to better work. So I would love to see more collaborative relationships between agencies/creatives and clients. That’s in any case what we try to do, and we love it.",
+                "spans": []
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "How has living in Japan influenced your work? What did you learn from your time in Japan?",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I loved the sense of “collective creativity”. The apparent lack of internal competition and instead a genuine drive to work together and contribute your personal perspective and talent to a project, no matter what your title might be. It just felt so different from what I was used to in Europe, where team members look to out-do each other rather than work together. \n\nThis collective effort was really inspiring to me, and definitely something I wanted to bring into monopo london. It can sometimes be confusing to new members that their job is not limited to their title, but I feel like people get the swing of it very quickly and are trying out things they would never have thought of before they know it.\n\nA common misconception about collectivity, by the way, is the impression that it means that everybody just works to the lowest common denominator. What I witnessed was quite the opposite. In “collective creativity”, every individual contributes their very own perspective, which leads to richer, more diverse ideas. Things you wouldn’t think of on your own.",
+                "spans": []
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "dimensions": {
+                "width": 655,
+                "height": 881
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/monopolondon/6a74343a-9aa0-41d8-8011-4d01493a079a_mattijs_lens_image_01.jpg?auto=compress,format&rect=0,0,1309,1761&w=655&h=881",
+              "id": "YUUjHBEAACQA_6aI",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 0.5002839295854627,
+                "background": "#fff"
+              },
+              "retina": {
+                "dimensions": {
+                  "width": 1310,
+                  "height": 1761
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/6a74343a-9aa0-41d8-8011-4d01493a079a_mattijs_lens_image_01.jpg?auto=compress,format&rect=0,0,1310,1761&w=1310&h=1761",
+                "id": "YUUjHBEAACQA_6aI",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "#fff"
+                }
+              },
+              "thumb": {
+                "dimensions": {
+                  "width": 4,
+                  "height": 5
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/monopolondon/6a74343a-9aa0-41d8-8011-4d01493a079a_mattijs_lens_image_01.jpg?auto=compress,format&rect=0,0,1310,1638&w=4&h=5",
+                "id": "YUUjHBEAACQA_6aI",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0.0030534351145038168,
+                  "background": "#fff"
+                }
+              }
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "How did you start your vintage pencil collection?",
+                "spans": []
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "Haha, it’s pretty niche, I know. I came across vintage boxes of pencils in a flea market in Tokyo and the artwork on the boxes was just amazing. They looked like beautiful old street signs, with fantastic typography and vibrant colors, but they were small and affordable. The perfect item to spend a few yen on. A week later I noticed that some of those old designs (Google Tombow 8900 for example) were still sold currently so I got intrigued to find out more. Many internet rabbit holes, pencil podcasts (Google the Erasable podcast) and offline flea markets later, I had purchased an amount of vintage pencils that would have to be considered a collection. Now, whenever I travel, I check out local flea markets to find local vintage pencils.",
+                "spans": []
+              }
+            ]
+          }
+        ],
+        "works": [
+          {
+            "works_subtitle": [
+              {
+                "type": "heading6",
+                "text": "Discover",
+                "spans": []
+              }
+            ],
+            "works_title": [
+              {
+                "type": "heading2",
+                "text": "Mattijs's recent work",
+                "spans": []
+              }
+            ],
+            "work_one": {
+              "id": "aP-hTxUAACMA-KK2",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "yonex-astrox-99--launch-campaign",
+              "first_publication_date": "2025-10-31T19:13:33+0000",
+              "last_publication_date": "2025-11-03T20:01:03+0000",
+              "uid": "astrox-99-launch-campaign",
+              "link_type": "Document",
+              "key": "8a1ad31b-bce9-4f18-9dd4-c98f8ce263e2",
+              "isBroken": false
+            },
+            "work_two": {
+              "id": "aNGUyhAAACAAysaM",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "nkora-coffee--brand-identity",
+              "first_publication_date": "2025-09-23T13:22:39+0000",
+              "last_publication_date": "2025-09-24T13:58:55+0000",
+              "uid": "nkora-coffee",
+              "link_type": "Document",
+              "key": "ec24f7c7-cc84-451c-b8ee-1c6e5c4e28b2",
+              "isBroken": false
+            },
+            "work_three": {
+              "id": "Z0tCqhUAAA6t2_3E",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "1337ai-universe--world-building",
+              "first_publication_date": "2024-11-30T17:50:51+0000",
+              "last_publication_date": "2024-12-03T21:41:20+0000",
+              "uid": "1337-world-building",
+              "link_type": "Document",
+              "key": "7985e006-2660-4a58-8393-58bff322cdb0",
+              "isBroken": false
+            }
+          }
+        ],
+        "meta_title": "monopo london | Team | Mattijs Devroedt",
+        "meta_description": "Managing director & Strategic director at monopo london.",
+        "share_image": {
+          "dimensions": {
+            "width": 1200,
+            "height": 630
+          },
+          "alt": "Mattijs Devroedt - Managing director & Strategic director at monopo london.",
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/1de23ea5-7d86-4223-8656-67e64062729b_Team_OGP_mattijs_02.jpg?auto=compress,format&rect=0,0,1200,630&w=1200&h=630",
+          "id": "Ynf2FREAACQAGy4_",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+          }
+        }
+      }
+    },
+    {
+      "id": "aTsKkBAAACAACFV7",
+      "uid": "sam-beaton",
+      "url": null,
+      "type": "member",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22aTsKkBAAACAACFV7%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2025-12-11T18:26:08+0000",
+      "last_publication_date": "2025-12-11T18:26:08+0000",
+      "slugs": [
+        "sam-beaton"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading2",
+            "text": "Sam Beaton",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Sam's lens",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "date": "2025-01-14",
+        "roles": [
+          {
+            "label": "GRAPHIC DESIGNER"
+          }
+        ],
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "Sam grew up dotted around Lincolnshire towns and graduated from a degree in Graphic Design at Nottingham Trent University. His keen eye for art and design is bringing a lot to monopo through his love for unconventional material and techniques, analog textures and fine art inspiration.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "links": [
+          {
+            "label": "Instagram",
+            "link": {
+              "link_type": "Web",
+              "key": "8a23b9fb-07d2-4494-bdfa-43f0d7e9c8ab",
+              "url": "https://www.instagram.com/bysambeaton/"
+            }
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsLkXNYClf9oE_J_Sam_Beaton_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=655&h=885",
+          "id": "aTsLkXNYClf9oE_J",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsLkXNYClf9oE_J_Sam_Beaton_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "aTsLkXNYClf9oE_J",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsLkXNYClf9oE_J_Sam_Beaton_monopo_london_01.jpg?auto=format,compress&rect=0,66,1310,1638&w=4&h=5",
+            "id": "aTsLkXNYClf9oE_J",
+            "edit": {
+              "x": 0,
+              "y": 66,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "image_reveal": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsLkXNYClf9oE_J_Sam_Beaton_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=655&h=885",
+          "id": "aTsLkXNYClf9oE_J",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsLkXNYClf9oE_J_Sam_Beaton_monopo_london_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "aTsLkXNYClf9oE_J",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/aTsLkXNYClf9oE_J_Sam_Beaton_monopo_london_01.jpg?auto=format,compress&rect=0,66,1310,1638&w=4&h=5",
+            "id": "aTsLkXNYClf9oE_J",
+            "edit": {
+              "x": 0,
+              "y": 66,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "name_japanese": "サム",
+        "fun_facts": [
+          {
+            "fact": "Director of Reference Rabbit Holes",
+            "emoji": "🌀"
+          },
+          {
+            "fact": "Camcorder Carrier",
+            "emoji": "📹"
+          },
+          {
+            "fact": "Resident Film Snob",
+            "emoji": "🎬"
+          },
+          {
+            "fact": "In constant pursuit of the coldest Diet Coke",
+            "emoji": "🥤"
+          },
+          {
+            "fact": "Blue jeans & Plain tee Defender",
+            "emoji": "👖"
+          },
+          {
+            "fact": "Timid Rebel at heart",
+            "emoji": "🫶"
+          },
+          {
+            "fact": "Film Grain Enthusiast",
+            "emoji": "📸"
+          },
+          {
+            "fact": "Fragrance Samples Hoarder",
+            "emoji": "👃🏻"
+          }
+        ],
+        "questions": [
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Who or what or where do you turn to for inspiration?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I have a silly amount of coffee-table books for someone who doesn’t own a coffee-table. But I flick through these if I’m ever in a creative lull. Even as a graphic designer I feel it’s very important to look for inspiration and stimulation outside of just “graphic design” inspiration, so most of these books are on other fields like fashion, film, even a beautiful one on 60s armchairs. ",
+                "spans": [],
+                "direction": "ltr"
+              },
+              {
+                "type": "paragraph",
+                "text": "Eyeroll but there’s design in everything so I really do look everywhere. My camera roll is full of so many natural textures, random shapes or interesting ideas that I love to come back to. These range from snail trails, the grid tiled into a train station pillar, charity shop rugs, the delicacy of a dandelion, script fonts from the south of France, the colour blocking of some peeling signage. I’m always out of storage.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Which celebrity, at what age, would you love to have a long conversation with?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I know it’s such a cliche to name David Lynch as an inspiration from a creative but just sitting with his mind and a cigarette (I don’t even smoke) would honestly complete something in me. His truly singular voice has just remained endlessly inspiring throughout my creative journey. I wouldn’t even want to probe for any “meanings” to his films as I’m sure that would kill any conversation, I'd just love to soak up his meditative approach and presence, talk about textures, the uncanny and whatever else he drifts into.\n\nIn terms of a year let’s go with 2005, around the time he’d be in the thick of making “Inland Empire” - a gem the world’s still catching up to and a bit of a turning point that I’d feel like that would be the perfect time to pick at his brain and perspective.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Is there a personal project you did and you are particularly proud of?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "I don’t even think it’s one of my “best” but a personal project that has stayed a favourite of mine was a project I did on The Child Artist. A few summers ago packing at my family home I found all these childhood photos, drawings and scraps that I’m forever indebted to mum for keeping. And some teary eyes soon turned into this small project. Part of this was crafting a workable font out of my childhood writings so pieces could be signed off by that child artist. ",
+                "spans": [],
+                "direction": "ltr"
+              },
+              {
+                "type": "paragraph",
+                "text": "\nThere was this undercurrent thread to Picasso and his thoughts that “Every child is an artist. The problem is how to remain an artist once we grow up”. It’s a project I’ve come back to quite a bit recently for comfort, especially with relocating. I hope to always keep that boy in gingham dungarees constantly photographed lying on the carpet sculpting with Play-Doh or scribbling with crayons now still at play.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          }
+        ],
+        "works": [
+          {
+            "works_subtitle": [
+              {
+                "type": "heading6",
+                "text": "DISCOVER",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "works_title": [
+              {
+                "type": "heading2",
+                "text": "Sam's recent work",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "work_one": {
+              "id": "aNGUyhAAACAAysaM",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "nkora-coffee--brand-identity",
+              "first_publication_date": "2025-09-23T13:22:39+0000",
+              "last_publication_date": "2025-09-24T13:58:55+0000",
+              "uid": "nkora-coffee",
+              "link_type": "Document",
+              "key": "cb9eb4b8-7869-4db2-a7f1-33ef68e1198c",
+              "isBroken": false
+            },
+            "work_two": {
+              "id": "aDCbuxAAACgAvJP0",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "yonex-all-england--athlete-clubhouse",
+              "first_publication_date": "2025-05-30T09:35:54+0000",
+              "last_publication_date": "2025-09-18T17:55:19+0000",
+              "uid": "yonex-all-england-athlete-clubhouse",
+              "link_type": "Document",
+              "key": "5a29c946-144f-452a-94fa-cb2251ec5f51",
+              "isBroken": false
+            },
+            "work_three": {
+              "id": "aLchxBAAACcA6Si3",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "onitsuka-tiger--finish-line-cafe--pop-up",
+              "first_publication_date": "2025-09-16T13:27:28+0000",
+              "last_publication_date": "2025-09-18T17:51:17+0000",
+              "uid": "onitsuka-tiger-finish-line-cafe",
+              "link_type": "Document",
+              "key": "d581f379-3ac4-4036-86bb-d50331a00b00",
+              "isBroken": false
+            }
+          }
+        ],
+        "meta_title": "monopo london | Team | Sam Beaton",
+        "meta_description": "Graphic designer at monopo.",
+        "share_image": {
+          "dimensions": {
+            "width": 1200,
+            "height": 630
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/aTsMtXNYClf9oE_e_Team_page_OGP_Sam.jpg?auto=format,compress&rect=0,0,1200,630&w=1200&h=630",
+          "id": "aTsMtXNYClf9oE_e",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          }
+        }
+      }
+    },
+    {
+      "id": "Zr4z2RAAACMA1JDK",
+      "uid": "karim-kadi",
+      "url": null,
+      "type": "member",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Zr4z2RAAACMA1JDK%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2024-08-15T18:13:09+0000",
+      "last_publication_date": "2025-10-27T18:18:15+0000",
+      "slugs": [
+        "karim-kadi"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading2",
+            "text": "Karim Kadi",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "title": [
+          {
+            "type": "heading1",
+            "text": "Karim's lens",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "date": "2023-06-11",
+        "roles": [
+          {
+            "label": "ART DIRECTOR"
+          },
+          {
+            "label": "DESIGNER"
+          }
+        ],
+        "introduction_text": [
+          {
+            "type": "paragraph",
+            "text": "Karim imagines brands in a different light. With a knack for the conceptual and a background at in-house creative teams of Lululemon and Selfridges, Karim works as Art Director across a vast range of projects at monopo. Creating visual worlds for campaigns, spaces or identities, and ensuring that a strong brand perspective comes across in every execution. Hailing from Vancouver, Canada, Karim doesn’t just bridge disciplines but also continents.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "links": [
+          {
+            "label": "Portfolio",
+            "link": {
+              "link_type": "Web",
+              "key": "a17c772f-3769-4872-86d5-b5a481023b49",
+              "url": "https://karimkadi.com/",
+              "target": "_blank"
+            }
+          },
+          {
+            "label": "Linkedin",
+            "link": {
+              "link_type": "Web",
+              "key": "2d850a76-c44c-479f-b35d-737d29662d43",
+              "url": "https://www.linkedin.com/in/karimkadi/",
+              "target": "_blank"
+            }
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/Zr5BakaF0TcGI-DT_Karim_Kadi_monopo_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=655&h=885",
+          "id": "Zr5BakaF0TcGI-DT",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/Zr5BakaF0TcGI-DT_Karim_Kadi_monopo_01.jpg?auto=format,compress&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "Zr5BakaF0TcGI-DT",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/Zr5BakaF0TcGI-DT_Karim_Kadi_monopo_01.jpg?auto=format,compress&rect=0,66,1310,1638&w=4&h=5",
+            "id": "Zr5BakaF0TcGI-DT",
+            "edit": {
+              "x": 0,
+              "y": 66,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "image_reveal": {
+          "dimensions": {
+            "width": 655,
+            "height": 885
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/Zr5Ba0aF0TcGI-DU_Karim_Kadi_monopo_02.jpg?auto=format,compress&rect=0,0,1310,1770&w=655&h=885",
+          "id": "Zr5Ba0aF0TcGI-DU",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          },
+          "retina": {
+            "dimensions": {
+              "width": 1310,
+              "height": 1770
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/Zr5Ba0aF0TcGI-DU_Karim_Kadi_monopo_02.jpg?auto=format,compress&rect=0,0,1310,1770&w=1310&h=1770",
+            "id": "Zr5Ba0aF0TcGI-DU",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          },
+          "thumb": {
+            "dimensions": {
+              "width": 4,
+              "height": 5
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/monopolondon/Zr5Ba0aF0TcGI-DU_Karim_Kadi_monopo_02.jpg?auto=format,compress&rect=0,66,1310,1638&w=4&h=5",
+            "id": "Zr5Ba0aF0TcGI-DU",
+            "edit": {
+              "x": 0,
+              "y": 66,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "name_japanese": null,
+        "fun_facts": [
+          {
+            "fact": "Vancouver → London",
+            "emoji": "☔️"
+          },
+          {
+            "fact": "Lululemon → Selfridges → monopo",
+            "emoji": "💛"
+          },
+          {
+            "fact": "Cyclist",
+            "emoji": "🚴"
+          },
+          {
+            "fact": "Second Lunches",
+            "emoji": "🍝"
+          },
+          {
+            "fact": "Sunday Roast Reviewer",
+            "emoji": "🥇"
+          },
+          {
+            "fact": "Pop Music Connoisseur",
+            "emoji": "🎤"
+          }
+        ],
+        "questions": [
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Who is your favourite Pop artist and why?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "Everyone in the office already knows, but I love pop music! It is so hard to pick my favourite artist, so I am going to share my top 3 on Spotify: Charli XCX, Troye Sivan, and Kim Petras. Each of them are super unique in their music style, but what they all have in common is their ability to merge pop with techno. I love their high-energy vibes that feels like you're dancing in a club at 2am.\n\nCharli is always a game changer when it comes to music, I've loved seeing her progression over the last decade, especially with her release of Brat. Troye's transition into Queer dance music has been life-changing, love hearing his album on a Friday night. For Kim Petras, it's actually her a cappella versions of her songs that I have on repeat. Symphonic Sessions: Claws on Youtube is perfection. Must listen!",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Is there anything you’d love to see change in the design world?",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "More diversity and access to design resources and tools! What I love about design is that it balances both the artistic and strategic sides of our thinking. There is not one way of doing anything, but instead, a multiverse of options for how to create something truly special. Providing access to design education for more people is essential.\n\nWith the surge of AI, when we look at the tools we are using now, we as designers need to start questioning if this is equitable. How are these tools made and by whom? What are the data sets they are using? Is the AI gender or racially biased? By addressing these concerns and broadening the community, we can create a picture of design that is more colourful and innovative.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "question_image": {
+              "retina": {},
+              "thumb": {}
+            },
+            "question": [
+              {
+                "type": "heading3",
+                "text": "Describe your perfect holiday.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "answer": [
+              {
+                "type": "paragraph",
+                "text": "This is my favourite question because the more you get to know me, you’ll realise that all my holidays follow the same formula! I am a warm weather person who loves to disconnect from the busyness of London. My ideal trip always involves the Mediterranean, where I can stay in an Airbnb that is just steps away from the beach. It’s all about simplicity on these holidays, surrounded by good company and making great food—home cooking only! There’s something so special about cooking with friends while hearing the sound of the waves and feeling the warmth of the sun all day. The combination of the Mediterranean waters, good company, home cooking, exploring the coastline, and spending time in the sun makes this always the perfect holiday.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          }
+        ],
+        "works": [
+          {
+            "works_subtitle": [
+              {
+                "type": "heading6",
+                "text": "DISCOVER",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "works_title": [
+              {
+                "type": "heading2",
+                "text": "KARIM’S RECENT WORK",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "work_one": {
+              "id": "aMwFyRAAACAAwnUy",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "paris-world-championships--yonex-players-lounge",
+              "first_publication_date": "2025-09-18T16:27:35+0000",
+              "last_publication_date": "2025-09-19T16:22:39+0000",
+              "uid": "yonex-players-lounge-paris",
+              "link_type": "Document",
+              "key": "05fd6bd5-9184-4bd0-bdf5-82aeed7b461a",
+              "isBroken": false
+            },
+            "work_two": {
+              "id": "ZtszNhAAACAATTkf",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "kodama-capital-branding",
+              "first_publication_date": "2024-09-06T16:54:02+0000",
+              "last_publication_date": "2024-09-12T10:36:07+0000",
+              "uid": "kodama-capital",
+              "link_type": "Document",
+              "key": "1c184b33-fc99-4108-a41e-b6a3f9fe697c",
+              "isBroken": false
+            },
+            "work_three": {
+              "id": "ZtmiQxAAACMAYnmE",
+              "type": "project",
+              "tags": [],
+              "lang": "en-gb",
+              "slug": "onitsuka-tiger--astro-boy-launch-event",
+              "first_publication_date": "2024-09-05T12:43:56+0000",
+              "last_publication_date": "2024-09-05T16:29:52+0000",
+              "uid": "onitsuka-tiger-astro-boy",
+              "link_type": "Document",
+              "key": "831f36f2-76ce-44f1-b9da-0f68d6c375ae",
+              "isBroken": false
+            }
+          }
+        ],
+        "meta_title": "monopo london | Team | Karim Kadi",
+        "meta_description": "Art Director at monopo london",
+        "share_image": {
+          "dimensions": {
+            "width": 1200,
+            "height": 630
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/Zr5FLEaF0TcGI-EU_Team_Karim_Kadi_OGP.jpg?auto=format,compress&rect=0,0,1200,630&w=1200&h=630",
+          "id": "Zr5FLEaF0TcGI-EU",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          }
+        }
+      }
+    }
+  ],
+  "version": "5621b3e",
+  "license": "All Rights Reserved"
+}

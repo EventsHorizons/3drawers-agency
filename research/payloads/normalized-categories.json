@@ -1,0 +1,30 @@
+[
+  {
+    "uid": "spatial",
+    "name": "SPATIAL"
+  },
+  {
+    "uid": "campaigns",
+    "name": "Campaign"
+  },
+  {
+    "uid": "photography",
+    "name": "Photography"
+  },
+  {
+    "uid": "brand-design",
+    "name": "Brand design"
+  },
+  {
+    "uid": "video",
+    "name": "Video"
+  },
+  {
+    "uid": "digital",
+    "name": "Digital"
+  },
+  {
+    "uid": "illustration",
+    "name": "Illustration"
+  }
+]

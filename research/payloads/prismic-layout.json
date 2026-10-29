@@ -1,0 +1,150 @@
+{
+  "page": 1,
+  "results_per_page": 100,
+  "results_size": 1,
+  "total_results_size": 1,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "YMIiGRMAACMAaqPU",
+      "uid": null,
+      "url": null,
+      "type": "layout",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YMIiGRMAACMAaqPU%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2021-06-10T14:31:04+0000",
+      "last_publication_date": "2026-07-06T12:07:16+0000",
+      "slugs": [
+        "layout"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "meta_title": "monopo london | Tokyo-born design-driven creative agency.",
+        "meta_description": "We are a design-driven creative agency working across branding, digital design and communications. Based in London, born in Tokyo.",
+        "meta_keywords": "monopo, Creative agency, Studio, Design, London, Tokyo, Japan, Branding, Advertising, Graphic design, Digital design, Webdesign, Campaign, Photography, Art direction, video production, social content, Illustration, Print",
+        "share_image": {
+          "dimensions": {
+            "width": 1200,
+            "height": 630
+          },
+          "alt": "monopo london | Design-driven creative agency. Branding, digital design and communications. Based in London, born in Tokyo. ",
+          "copyright": null,
+          "url": "https://images.prismic.io/monopolondon/b0b45d4e-afc8-4a12-8e6c-212abb2381a3_monopo_london_OGP.jpg?auto=compress,format&rect=0,0,1200,630&w=1200&h=630",
+          "id": "YUm4FxEAACIAE98q",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+          }
+        },
+        "footer_title": [
+          {
+            "type": "heading2",
+            "text": "We would love to hear from you.",
+            "spans": []
+          }
+        ],
+        "footer_text": [
+          {
+            "type": "paragraph",
+            "text": "Feel free to reach out if you want to collaborate with us, or simply have a chat.",
+            "spans": []
+          }
+        ],
+        "footer_contact": {
+          "link_type": "Web",
+          "key": "a56e716f-3669-4021-a0c0-af52b699ae5e",
+          "url": "mailto:contact@monopo.london"
+        },
+        "footer_contact_label": "contact@monopo.london",
+        "address": [
+          {
+            "type": "paragraph",
+            "text": "Unit 16C, Perseverance Works\n38 Kingsland Road\nE2 8DD, London\nUnited Kingdom\n\nVAT: 319656475\nCompany no. 11843590\nRegistered in England & Wales",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "social": [
+          {
+            "label": "Instagram",
+            "link": {
+              "link_type": "Web",
+              "key": "b943054e-252a-4b7f-8c84-a54c9f662dc1",
+              "url": "https://www.instagram.com/monopo_london",
+              "target": "_blank"
+            }
+          },
+          {
+            "label": "Linkedin",
+            "link": {
+              "link_type": "Web",
+              "key": "8bca1bd5-23c3-44e3-b87d-78af567e9905",
+              "url": "https://www.linkedin.com/company/monopo/",
+              "target": "_blank"
+            }
+          }
+        ],
+        "externals": [
+          {
+            "label": "Monopo TKY",
+            "link": {
+              "link_type": "Web",
+              "key": "77a5fed5-3aa1-4837-942e-d42730d6b53f",
+              "url": "https://monopo.co.jp/",
+              "target": "_blank"
+            }
+          },
+          {
+            "label": "Monopo NYC",
+            "link": {
+              "link_type": "Web",
+              "key": "f36b3b3c-0f76-48ba-8f45-fb015b92fa3d",
+              "url": "https://monopo.nyc/",
+              "target": "_blank"
+            }
+          },
+          {
+            "label": "POWERED BY TOKYO",
+            "link": {
+              "link_type": "Web",
+              "key": "46e0ac84-ca34-4e50-be0d-dfdd48bd80dd",
+              "url": "https://poweredby.tokyo/",
+              "target": "_blank"
+            }
+          }
+        ],
+        "credits": "© MONOPO LONDON LTD 2024 All rights reserved",
+        "cookies_description": [
+          {
+            "type": "paragraph",
+            "text": "This website uses cookies.\nLearn more.",
+            "spans": [
+              {
+                "start": 27,
+                "end": 37,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Media",
+                  "kind": "file",
+                  "id": "YRaY-xAAACEAJMAv",
+                  "url": "https://monopolondon.cdn.prismic.io/monopolondon/15c780b4-65bd-44e6-affe-2c90529c046c_Cookie-Policy-monopo.london.pdf",
+                  "name": "Cookie-Policy-monopo.london.pdf",
+                  "size": "82909"
+                }
+              }
+            ]
+          }
+        ],
+        "cookies_button_label": "ACCEPT"
+      }
+    }
+  ],
+  "version": "5621b3e",
+  "license": "All Rights Reserved"
+}

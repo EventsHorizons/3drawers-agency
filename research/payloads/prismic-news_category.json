@@ -1,0 +1,89 @@
+{
+  "page": 1,
+  "results_per_page": 100,
+  "results_size": 4,
+  "total_results_size": 4,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "ZIhy7BIAACMAQuiS",
+      "uid": "articles",
+      "url": null,
+      "type": "news_category",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZIhy7BIAACMAQuiS%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-06-13T13:45:19+0000",
+      "last_publication_date": "2023-06-13T13:45:19+0000",
+      "slugs": [
+        "articles"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": "Articles"
+      }
+    },
+    {
+      "id": "ZIhyuRIAACIAQugz",
+      "uid": "events",
+      "url": null,
+      "type": "news_category",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZIhyuRIAACIAQugz%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-06-13T13:44:28+0000",
+      "last_publication_date": "2023-06-13T13:44:28+0000",
+      "slugs": [
+        "events"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": "Events"
+      }
+    },
+    {
+      "id": "ZIhylxIAACUAQuf1",
+      "uid": "news",
+      "url": null,
+      "type": "news_category",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZIhylxIAACUAQuf1%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-06-13T13:43:58+0000",
+      "last_publication_date": "2023-06-13T13:43:58+0000",
+      "slugs": [
+        "news"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": "News"
+      }
+    },
+    {
+      "id": "ZIhy0xIAACMAQuhm",
+      "uid": "features",
+      "url": null,
+      "type": "news_category",
+      "href": "https://monopolondon.cdn.prismic.io/api/v2/documents/search?ref=akvuMxEAAC0A2Qiu&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZIhy0xIAACMAQuhm%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-06-13T13:44:54+0000",
+      "last_publication_date": "2023-06-13T13:44:54+0000",
+      "slugs": [
+        "features"
+      ],
+      "linked_documents": [],
+      "lang": "en-gb",
+      "alternate_languages": [],
+      "data": {
+        "name": "Features"
+      }
+    }
+  ],
+  "version": "5621b3e",
+  "license": "All Rights Reserved"
+}
