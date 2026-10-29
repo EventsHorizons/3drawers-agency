@@ -1,20 +1,20 @@
-<script setup lang="ts">
+﻿<script setup lang="ts">
 const { site } = useSiteContent();
 const policy = site.policy;
 
-useHead({ title: "Cookie policy | monopo london" });
+useHead({ title: "Cookie policy | 3Drawers Agency" });
 </script>
 
 <template>
   <main id="main" class="policy">
     <header class="hero">
-      <MonopoGradient
+      <AgencyGradient
         class="hero-fx"
         :markup="policy.gradient"
         :show-pause="false"
       />
       <div class="hero-copy">
-        <h1>{{ policy.title || "COOKIE POLICY FOR MONOPO LONDON" }}</h1>
+        <h1>{{ policy.title || "COOKIE POLICY FOR 3Drawers Agency" }}</h1>
         <p class="sub">{{ policy.subtitle }}</p>
       </div>
     </header>
@@ -23,16 +23,7 @@ useHead({ title: "Cookie policy | monopo london" });
         <h2 v-if="b.type?.startsWith('heading')">{{ b.text }}</h2>
         <p v-else>{{ b.text }}</p>
       </template>
-      <p class="pdf">
-        Cookie policy PDF (external):
-        <a
-          href="https://monopolondon.cdn.prismic.io/monopolondon/15c780b4-65bd-44e6-affe-2c90529c046c_Cookie-Policy-monopo.london.pdf"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Open PDF ↗
-        </a>
-      </p>
+      <p class="pdf">Cookie policy details available on request.</p>
     </div>
   </main>
 </template>

@@ -1,5 +1,5 @@
 /**
- * Fragment/vertex GLSL reconstructed from observable monopo-gradient (WebGL2).
+ * Fragment/vertex GLSL reconstructed from observable agency-gradient (WebGL2).
  * 3D gradient-noise derivatives: Inigo Quilez, MIT License
  * https://iquilezles.org/articles/gradientnoise/
  */
@@ -191,13 +191,13 @@ export const HOME_GRADIENT: GradientParams = {
   noiseIntensity: 0.04,
 };
 
-export function parseMonopoGradientMarkup(
+export function parseAgencyGradientMarkup(
   markup: string | null | undefined,
   fallback: GradientParams = HOME_GRADIENT,
 ): GradientParams {
   if (!markup) return { ...fallback };
   const doc = typeof DOMParser !== "undefined" ? new DOMParser().parseFromString(markup, "text/html") : null;
-  const el = doc?.querySelector("monopo-gradient");
+  const el = doc?.querySelector("agency-gradient");
   if (!el) {
     // SSR / node: regex attrs
     const get = (name: string) => {

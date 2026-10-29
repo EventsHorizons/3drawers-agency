@@ -29,13 +29,12 @@ const right = links.slice(3);
 
 <template>
   <header class="site-header" :class="{ overlay: open }">
-    <NuxtLink class="logo" to="/" aria-label="monopo london home">
-      <strong>monopo</strong>
+    <NuxtLink class="logo" to="/" aria-label="3Drawers Agency home">
+      <strong>3Drawers</strong>
       <span aria-hidden="true">|</span>
-      <em>london</em>
+      <em>Agency</em>
     </NuxtLink>
 
-    <!-- Desktop nav mirrors live home header columns + clocks -->
     <nav class="desk-nav" aria-label="Primary">
       <ul class="desk-col">
         <li v-for="l in left" :key="l.to">
@@ -54,10 +53,10 @@ const right = links.slice(3);
           </NuxtLink>
         </li>
         <li>
-          <a href="https://monopo.co.jp/" target="_blank" rel="noreferrer">{{ tokyo }}</a>
+          <span>{{ tokyo }}</span>
         </li>
         <li>
-          <a href="https://monopo.nyc/" target="_blank" rel="noreferrer">{{ nyc }}</a>
+          <span>{{ nyc }}</span>
         </li>
       </ul>
     </nav>
@@ -82,8 +81,8 @@ const right = links.slice(3);
       <NuxtLink to="/" :aria-current="route.path === '/' ? 'page' : undefined">
         {{ london }}
       </NuxtLink>
-      <a href="https://monopo.co.jp/" target="_blank" rel="noreferrer">{{ tokyo }}</a>
-      <a href="https://monopo.nyc/" target="_blank" rel="noreferrer">{{ nyc }}</a>
+      <span>{{ tokyo }}</span>
+      <span>{{ nyc }}</span>
     </div>
   </div>
 </template>
@@ -114,7 +113,8 @@ const right = links.slice(3);
   letter-spacing: 0.12em;
   text-transform: uppercase;
 }
-.desk-col a {
+.desk-col a,
+.desk-col span {
   opacity: 0.72;
 }
 .desk-col a.router-link-active,

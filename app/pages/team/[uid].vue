@@ -17,7 +17,7 @@ const related = computed(() =>
 useHead({
   title: () => {
     const raw = member.value?.metaTitle || member.value?.name || "Team";
-    return /monopo/i.test(raw) ? raw : `${raw} | monopo london`;
+    return /3Drawers/i.test(raw) ? raw : `${raw} | 3Drawers Agency`;
   },
   meta: [
     {

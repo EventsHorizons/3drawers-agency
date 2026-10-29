@@ -4,7 +4,7 @@ import {
   hexToRgb01,
   type GradientParams,
   HOME_GRADIENT,
-} from "./monopoGradientShader";
+} from "./agencyGradientShader";
 
 function compile(gl: WebGL2RenderingContext, type: number, src: string) {
   const sh = gl.createShader(type);
@@ -19,7 +19,7 @@ function compile(gl: WebGL2RenderingContext, type: number, src: string) {
   return sh;
 }
 
-export type MonopoGradientHandle = {
+export type AgencyGradientHandle = {
   setParams: (p: Partial<GradientParams>) => void;
   resize: () => void;
   draw: () => void;
@@ -31,12 +31,12 @@ export type MonopoGradientHandle = {
   getSeed: () => number;
 };
 
-export function createMonopoGradient(
+export function createAgencyGradient(
   canvas: HTMLCanvasElement,
   initial: GradientParams = HOME_GRADIENT,
   opts: { animateSeed?: boolean; seedSpeed?: number; noRetina?: boolean } = {},
-): MonopoGradientHandle {
-  // Match live monopo-gradient CE: preserveDrawingBuffer + antialias
+): AgencyGradientHandle {
+  // Match live agency-gradient CE: preserveDrawingBuffer + antialias
   const gl = canvas.getContext("webgl2", {
     antialias: true,
     alpha: false,

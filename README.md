@@ -1,8 +1,6 @@
-# monopo.london — reconstrucción local (dev)
+# 3Drawers | Agency
 
-Reconstrucción Nuxt 4 del sitio [monopo.london](https://monopo.london/) a partir de evidencia observable (browser MCP, payloads Nuxt, API pública Prismic).
-
-**No es el sitio oficial.** Uso previsto: entorno de desarrollo autorizado.
+Sitio Nuxt 4 de **3Drawers | Agency** — estudio creativo design-driven (branding, digital y communications).
 
 ## Arranque
 
@@ -15,16 +13,8 @@ Build: `npm run build` · Preview: `npm run preview`
 
 ## Rutas
 
-`/`, `/work`, `/work/[uid]` (×34), `/services`, `/team`, `/team/[uid]` (×11), `/contact`, `/press`, `/policy`
+`/`, `/work`, `/work/[uid]`, `/services`, `/team`, `/team/[uid]`, `/contact`, `/press`, `/policy`
 
-## Datos
+## Stack
 
-- `content/*.json` generados desde Prismic (`research/fetch-prismic.mjs`, `research/normalize-content.mjs`)
-- Fuentes: `public/fonts` (Roobert / Noto CJK servidas públicamente en el origen)
-
-## Docs
-
-- `docs/FINAL-REPORT.md` — informe de entrega
-- `docs/FINAL-REPORT-V2-GRAPHICS.md` — WebGL / monopo-gradient / shaders
-- `docs/route-inventory.md`
-- `docs/limitations.md`
+Nuxt 4 · Vue 3 · Lenis · GSAP · WebGL2 (`AgencyGradient`) · content JSON

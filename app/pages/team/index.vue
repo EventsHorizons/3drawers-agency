@@ -1,14 +1,14 @@
-<script setup lang="ts">
+﻿<script setup lang="ts">
 const { site } = useSiteContent();
 const team = site.team;
 const members = site.members;
-useHead({ title: "Team | monopo london" });
+useHead({ title: "Team | 3Drawers Agency" });
 </script>
 
 <template>
   <main id="main" class="team">
     <header class="hero">
-      <MonopoGradient
+      <AgencyGradient
         class="hero-fx"
         :markup="team.gradient"
         :show-pause="false"

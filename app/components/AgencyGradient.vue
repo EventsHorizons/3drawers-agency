@@ -1,13 +1,13 @@
 <script setup lang="ts">
 import {
-  createMonopoGradient,
-  type MonopoGradientHandle,
-} from "~/utils/createMonopoGradient";
+  createAgencyGradient,
+  type AgencyGradientHandle,
+} from "~/utils/createAgencyGradient";
 import {
   HOME_GRADIENT,
-  parseMonopoGradientMarkup,
+  parseAgencyGradientMarkup,
   type GradientParams,
-} from "~/utils/monopoGradientShader";
+} from "~/utils/agencyGradientShader";
 
 const props = withDefaults(
   defineProps<{
@@ -32,10 +32,10 @@ const canvas = ref<HTMLCanvasElement | null>(null);
 const paused = ref(false);
 const failed = ref(false);
 const root = ref<HTMLElement | null>(null);
-let handle: MonopoGradientHandle | null = null;
+let handle: AgencyGradientHandle | null = null;
 
 const resolved = computed<GradientParams>(() => ({
-  ...parseMonopoGradientMarkup(props.markup, HOME_GRADIENT),
+  ...parseAgencyGradientMarkup(props.markup, HOME_GRADIENT),
   ...props.params,
 }));
 
@@ -68,7 +68,7 @@ onMounted(() => {
   if (!el) return;
   const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   try {
-    handle = createMonopoGradient(el, resolved.value, {
+    handle = createAgencyGradient(el, resolved.value, {
       animateSeed: props.animate && !reduce,
       noRetina: props.noRetina,
       seedSpeed: 0.07,
@@ -76,11 +76,11 @@ onMounted(() => {
     if (props.animate && !reduce) handle.start();
     else handle.draw();
     if (import.meta.dev) {
-      (window as Window & { __monopoGradient?: MonopoGradientHandle }).__monopoGradient =
+      (window as Window & { __agencyGradient?: AgencyGradientHandle }).__agencyGradient =
         handle;
     }
   } catch (err) {
-    console.warn("[MonopoGradient] WebGL2 failed, CSS fallback", err);
+    console.warn("[AgencyGradient] WebGL2 failed, CSS fallback", err);
     failed.value = true;
   }
 
@@ -144,7 +144,7 @@ function togglePause() {
 <template>
   <div
     ref="root"
-    class="monopo-gradient"
+    class="agency-gradient"
     :class="{ fallback: failed }"
     :style="
       failed
@@ -171,7 +171,7 @@ function togglePause() {
 </template>
 
 <style scoped>
-.monopo-gradient {
+.agency-gradient {
   position: absolute;
   inset: 0;
   z-index: 0;

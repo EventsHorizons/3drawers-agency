@@ -6,12 +6,12 @@ export default defineNuxtConfig({
   app: {
     head: {
       titleTemplate: "%s",
-      title: "monopo london | Tokyo-born design-driven creative agency.",
+      title: "3Drawers | Agency",
       meta: [
         {
           name: "description",
           content:
-            "DEV RECONSTRUCTION of monopo.london for authorized local development. Not an official Monopo website.",
+            "3Drawers Agency — design-driven creative studio for branding, digital and communications.",
         },
         { name: "robots", content: "noindex,nofollow" },
       ],
@@ -20,7 +20,7 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      isReconstruction: true,
+      brandName: "3Drawers | Agency",
     },
   },
 });

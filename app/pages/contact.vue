@@ -1,4 +1,4 @@
-<script setup lang="ts">
+﻿<script setup lang="ts">
 const { site } = useSiteContent();
 const c = site.contact;
 const status = ref<"idle" | "invalid" | "demo">("idle");
@@ -31,7 +31,7 @@ function onSubmit(e: Event) {
   status.value = "demo";
 }
 
-useHead({ title: "Contact | monopo london" });
+useHead({ title: "Contact | 3Drawers Agency" });
 </script>
 
 <template>
@@ -90,8 +90,8 @@ useHead({ title: "Contact | monopo london" });
         </label>
         <button type="submit">SUBMIT →</button>
         <p v-if="status === 'demo'" class="notice" role="status">
-          Reconstruction mode: form validated locally. No backend endpoint is
-          wired — nothing was sent to Monopo.
+          Demo mode: form validated locally. No backend endpoint is wired —
+          nothing was sent.
         </p>
         <p v-if="status === 'invalid'" class="err" role="alert">
           Please fix the highlighted fields.

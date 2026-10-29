@@ -13,8 +13,8 @@ function toTop() {
           Feel free to reach out if you want to collaborate with us, or simply
           have a chat.
         </p>
-        <a class="ghost-btn" href="mailto:contact@monopo.london">
-          contact@monopo.london →
+        <a class="ghost-btn" href="mailto:contact@3drawers.agency">
+          contact@3drawers.agency →
         </a>
       </div>
       <div>
@@ -23,34 +23,12 @@ function toTop() {
         <p>38 Kingsland Road</p>
         <p>E2 8DD, London</p>
         <p>United Kingdom</p>
-        <p>VAT: 319656475</p>
-        <p>Company no. 11843590</p>
-        <p>Registered in England & Wales</p>
       </div>
       <div>
         <h3>Follow us</h3>
         <ul>
-          <li>
-            <a href="https://www.instagram.com/monopo_london" target="_blank" rel="noreferrer">
-              Instagram
-            </a>
-          </li>
-          <li>
-            <a href="https://www.linkedin.com/company/monopo/" target="_blank" rel="noreferrer">
-              Linkedin
-            </a>
-          </li>
-          <li>
-            <a href="https://monopo.co.jp/" target="_blank" rel="noreferrer">↗ Monopo TKY</a>
-          </li>
-          <li>
-            <a href="https://monopo.nyc/" target="_blank" rel="noreferrer">↗ Monopo NYC</a>
-          </li>
-          <li>
-            <a href="https://poweredby.tokyo/" target="_blank" rel="noreferrer">
-              ↗ POWERED BY TOKYO
-            </a>
-          </li>
+          <li><a href="#" aria-disabled="true">Instagram</a></li>
+          <li><a href="#" aria-disabled="true">Linkedin</a></li>
         </ul>
       </div>
       <nav aria-label="Footer">

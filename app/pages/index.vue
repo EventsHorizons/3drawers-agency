@@ -1,8 +1,6 @@
-<script setup lang="ts">
+﻿<script setup lang="ts">
 /**
- * Home layout mirrors live monopo.london:
- * 1) c-PixiIntro — fullscreen gradient + 3-line title + foot columns
- * 2) c-Home sticky recent work — scroll sections drive active title + cover image
+ * Home: fullscreen intro gradient + sticky recent work.
  */
 const { site, featuredProjects } = useSiteContent();
 const featured = computed(() =>
@@ -67,7 +65,7 @@ onBeforeUnmount(() => {
   <main id="main" class="home">
     <!-- INTRO (live: .c-PixiIntro) -->
     <section class="intro" aria-label="Introduction">
-      <MonopoGradient
+      <AgencyGradient
         class="intro-fx"
         :markup="site.homepage.gradient"
         interactive
@@ -111,7 +109,7 @@ onBeforeUnmount(() => {
 
     <!-- RECENT WORK sticky (live: .c-Home-content / .c-Home-sticky) -->
     <section ref="stickyRoot" class="recent" aria-label="Recent work">
-      <MonopoGradient
+      <AgencyGradient
         class="recent-fx"
         :markup="site.homepage.gradient"
         :animate="true"

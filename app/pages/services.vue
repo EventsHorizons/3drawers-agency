@@ -1,13 +1,13 @@
-<script setup lang="ts">
+﻿<script setup lang="ts">
 const { site } = useSiteContent();
 const s = site.services;
-useHead({ title: "Services | monopo london" });
+useHead({ title: "Services | 3Drawers Agency" });
 </script>
 
 <template>
   <main id="main" class="services">
     <header class="hero">
-      <MonopoGradient class="hero-fx" :markup="s.gradient" :show-pause="false" />
+      <AgencyGradient class="hero-fx" :markup="s.gradient" :show-pause="false" />
       <div class="hero-copy">
         <h1>{{ s.title || "We build expressive brands" }}</h1>
         <p>{{ s.baseline || s.introduction }}</p>

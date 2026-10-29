@@ -1,4 +1,4 @@
-<script setup lang="ts">
+﻿<script setup lang="ts">
 const { news, site } = useSiteContent();
 const cats = computed(() => {
   const ordered = (site.newsCategories || []).map((c) => c.name).filter(Boolean);
@@ -29,7 +29,7 @@ watch(active, () => {
   visible.value = 12;
 });
 
-useHead({ title: "Press & News | monopo london" });
+useHead({ title: "Press & News | 3Drawers Agency" });
 </script>
 
 <template>

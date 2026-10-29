@@ -1,4 +1,4 @@
-<script setup lang="ts">
+﻿<script setup lang="ts">
 const { projects, categories, site, getProject } = useSiteContent();
 const active = ref("All");
 const collectionIndex = ref(0);
@@ -38,13 +38,13 @@ function nextCollection() {
   collectionIndex.value = (collectionIndex.value + 1) % collections.value.length;
 }
 
-useHead({ title: "Work | monopo london" });
+useHead({ title: "Work | 3Drawers Agency" });
 </script>
 
 <template>
   <main id="main" class="work-page">
     <header class="work-hero">
-      <MonopoGradient
+      <AgencyGradient
         class="hero-fx"
         :markup="site.worksPage.gradient"
         :show-pause="false"
